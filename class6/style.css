@@ -1,0 +1,148 @@
+/* p{
+
+background-color: blue;
+color: brown;
+text-shadow: -1px 0px 1px chartreuse;
+
+} */
+
+/* p#p1:first-letter{
+
+ font-size: 100px;   
+
+}
+a:link { color: deeppink; text-decoration: none;} a:visited { color: black;} 
+a:hover { color: deeppink; text-decoration: underline;}
+a:active { color: darkcyan;}
+
+input.txt:hover{
+
+background-color: cornflowerblue;
+
+}
+
+.lo{
+
+width: 50%;
+height: 10%;
+border: 1px solid black;
+
+} */
+
+/* 
+.lo{
+
+    width: 50%;
+    height: 10%;
+    border: 1px solid black;
+    
+    }
+
+    li>a{
+
+  text-decoration: none;
+
+    } */
+
+    /* #p1{
+  background-color: cyan;
+    text-shadow: 1px 2px 2px coral;
+
+    } */
+/* 
+    p#p1:first-letter{
+
+    font-size: 100px;
+
+    }
+
+    p#p1:first-line{
+
+     color: darkblue;
+
+    }
+
+    a.for:link{
+
+color: darkcyan;
+text-decoration: none;
+    }
+a.for:visited{
+    color: black;
+
+
+}
+
+a.for:hover{
+
+color: blue;
+background-color:blueviolet;
+
+}
+
+input:hover{
+
+color:chartreuse;
+background-color: chocolate;
+
+}
+input:focus{
+color:darkturquoise;
+background-color: darkviolet;
+}
+input:active{
+
+background-color:black
+
+} */
+/* 
+p[class~="dog"]{
+
+color: blue;
+
+}
+     */
+img{
+ 
+    width: 100%;
+
+}
+
+/* 
+      .main{
+
+  border:1px solid red;
+min-width: 10px;
+max-width: 400px;
+
+ 
+
+     }  */
+
+    /* .main{
+border: 1px solid rebeccapurple;
+width: 300px;
+min-height: 200px;
+max-height: 200px;
+overflow:scroll;
+
+
+    } */
+
+    .main{
+ border: 1px solid rebeccapurple;
+  padding: 80px;
+  width: 50%;
+  margin: 0 auto;
+  border-radius: 2em;
+    } 
+
+    li{
+
+
+  background-color: red;
+  margin: 10px;
+  padding: 10px;
+  display: inline;
+
+    }

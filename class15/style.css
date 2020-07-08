@@ -1,0 +1,36 @@
+
+
+.main{
+
+border:2px solid black;
+width: 200px;
+margin: 0 auto;
+
+}
+
+.textb{
+
+width: 95%;
+background-color: burlywood;
+
+}
+
+.clear{
+
+width: 70%;
+margin-top: 10px;
+
+
+}
+
+.btn{
+
+    width: 45px;
+    padding: 10px 10px 0px 10px;
+
+}
+.end{
+
+width: 95px;
+margin-top: 10px;
+}

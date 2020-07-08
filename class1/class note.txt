@@ -1,0 +1,169 @@
+HEad ka andr extra infomaion ati hai
+body ka andr apka jo page mae ati hai
+
+html ek main container hai 
+aus ka andr apka pas 2 container hai ek head ka or ek body ka..
+head ka continer box ka andr ek child hai title
+<!doctype html>html represent karta hai hm html5 use kara hai...
+
+
+Web Browser
+
+A web browser is a software application for accessing information on the World Wide Web.
+When a user requests a particular website, the web browser retrieves the necessary content from 
+a web server and then displays the resulting web page on the user's device.
+
+web browser opera google chorme is a client,a piece of software is ka use http ki request ko send karna ka liya 
+and web browswr janta hai ka server ka sth kesa communction karna hai 
+web browser ka 
+
+
+Web Server:
+Softwre that listens for web page request
+jb ap koi bhi website serach karta hai yeh phr koi url likha kr enter karta hai tw
+tw wo request jati hai web server ka pas web server aus ko dekhta hai then wo apko reply dayta hai
+then phr apka pas wo web site open hoti hai 
+like Apache
+
+
+
+
+Website:
+collection of files
+
+How the Web work:
+1.Web site ek server py hoti hai
+2.brower py jakr app facebook likhta ho server ka andr ek ip address hotoi hai 
+3.phr wo dns(Domain name server)like facebook ki ip adddress hai 127.98.6.70
+4.phela app apna brower py likhta hai like ka apna facebbok likha tow wo apka dns dekha ga 
+DNS ka back py ek address hoga aus ki ip address hogai ho wo server ka pas jayagai gai
+phr aus ka retuen mae apko brower py open kar ka day ga 
+
+types of hosting:
+shared hosting(ek server mae apko shared karda ga wo) 
+Vps()
+dedicated server(yeh private server mean ek apka server dayga
+
+Opening tag:
+<p>,<h1>
+
+closing tag:
+</p></h1>
+
+self closing tag:
+<br/>,<hr/>
+
+
+tag ko hm element bhi bolta hai...
+
+
+
+tag ka andr attribute name like <p lang="en-us">
+lang attribute hai or en-us attribute value hai 
+
+attribute:
+that give the extra information to the tag..
+
+
+Chapter 2:
+there are 6 type of heading 
+h1 to h6
+agr phr apni marzi sy tag banagay ga tow wo pharaghraphy samjhta hai
+
+bold & italic in html
+Strong and em
+
+Superscrpit & subScript
+<sup> mae power ayi gai
+<sub> mae necha ayaga
+
+whitespace
+html ek hi space count hi karta hai html
+
+Linebreak & horizontal rules:
+br link break karta hai
+hr yeh mae ek line ati hai necha 
+
+there are two types of element
+1.block level element
+2.or inline element
+
+
+Semantic markup
+jo meaning rakta hai 
+
+vs code ide(Intergrated development enviroment)
+
+home ki identifion index sy hogai
+
+
+Strong and emphasis
+<strong> <em>
+
+Blockquote:
+
+jo dosri website sy data lakr aya hai aus ka link day da
+
+<blockquote cite=""></blockquote>
+
+
+Q ka tag in quotation
+
+
+
+abbr or 
+<abbr title="world health organzition">who</abbr>
+
+
+<cite>
+koi bhi highlight cheez hai
+
+<dfn>
+define mae like define
+
+
+<ins>ins mae underline ajati hai
+<del>del mae line ajati hai
+
+<s> del hi jesa kam karta hai
+
+
+chapter 3:
+List
+There are 3 types of list
+1.oredered list
+2.unoredered list
+3.defined list
+
+<dl><dt><dd>
+
+mailto :
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+

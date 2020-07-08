@@ -1,0 +1,16 @@
+Html5
+css3
+Firebase
+Linux
+GiT
+Javascript
+ES6
+ReactJS/ANgularJS
+Redux
+REactNative
+MangoDB
+ExpressJs/NodeJS
+Docker
+Kubernetes
+
+

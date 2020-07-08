@@ -1,0 +1,154 @@
+/* li{
+
+list-style-type: square;
+margin: 10px 0px 0px 0px;
+list-style-position: inside;
+} */
+/* body{
+font-family: Arial, Helvetica, sans-serif;
+
+}
+table{
+width: 600px;
+margin: 0 auto;
+border-spacing: 0px 10px;
+empty-cells: hide;
+}
+
+th,td{
+padding: 7px 10px 10px 1px;
+border: 1px solid black;
+}
+
+th{
+
+text-transform: uppercase;
+letter-spacing: 0.1em;
+font-size: 90%;
+border-bottom: 2px solid bisque;
+border-top: 2px solid teal;
+text-align: left;
+
+}
+
+tr.even{
+
+    background-color: thistle;
+}
+
+td:hover{
+ background-color: turquoise;
+
+}
+
+td{
+    font-size: 32px;
+    color: yellowgreen;
+}
+
+.money{
+text-align: right;
+
+} */
+
+/* form{
+width: 500px;
+padding: 50px;
+margin: 10em 0em 0 10em;
+
+}
+
+input{
+
+margin: 2em;
+padding: 5px;
+font-size: 1em;
+
+}
+
+
+button{
+padding: 100px 5px 5px 20px;
+border: none;
+background-color: cornflowerblue;
+color: cornsilk;
+border-radius: 5px;
+margin: 5px;
+font-size: 60px;
+
+
+
+}
+
+button:hover{
+    background-color: crimson;
+}
+
+input#email{
+ background-image: url("https://image.shutterstock.com/image-vector/email-icon-260nw-438858262.jpg");
+ background-size: 40px;
+ background-repeat: no-repeat;
+ padding: 10px 0px 0px 40px;
+
+
+} */
+
+body{
+background-color: teal;
+
+}
+.black{
+background-color: black;
+height: 100px;
+width: 100px;
+display: inline-block;
+
+
+
+}
+.white{
+    background-color: yellow;
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    margin: 0em 10em;
+    }
+
+    img{
+
+        position: relative;
+        top: 300px;
+
+    }
+
+    table{
+
+  
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 100px auto;
+  padding: 5em 0;
+    }
+
+    th,tr{
+   
+
+        padding: 5px;
+    
+
+
+    }
+    th{
+
+
+        border-top:1px solid blue;
+        text-transform: uppercase;
+        
+
+    }
+    
+    
+    tr.even{
+
+   background-color: blanchedalmond;
+
+    }

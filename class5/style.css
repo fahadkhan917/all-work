@@ -1,0 +1,52 @@
+@font-face{
+font-family: 'Ubuntu';
+src: url('Ubuntu-Light.ttf');
+
+}
+
+
+
+h1{
+
+color:red ;
+font-family: Ubuntu;
+font-weight: bold;
+text-align: center;
+}
+p{
+
+
+    text-transform: uppercase;
+    text-transform: capitalize;
+    line-height: 4em;
+    word-spacing: 2em;
+    text-align: justify;
+    text-indent: 300px;
+ 
+
+    
+}
+
+.lo{
+
+letter-spacing: 2em;
+text-shadow: 1px 1px 0px bisque;
+
+;
+}
+
+/* img{
+
+border: 2px solid;
+text-align: center;
+display: block;
+margin-left: auto;
+margin-right: auto;
+} */
+/* body{
+text-align: center;
+
+} */
+
+
+

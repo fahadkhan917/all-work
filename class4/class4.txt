@@ -1,0 +1,116 @@
+extra element in html
+
+
+block line elemnt 
+inline element 
+
+id is a unqiue identification
+
+
+class is a multiple 
+
+
+div oe span mae different yeh hai ka 
+
+div is hai blockline element
+spam is in block line element hai
+
+div jo hai wo next line sy ayaga 
+or dpam ek ine mae hi ayaga
+
+iframe map ka liya use hoyta hai 
+or youtube ki video ka liya bhi hota hai
+
+youtube ki video ka liya ek kaqm karna hai apko ka app phela video py jakr 
+right click kar kA  video emded code karna hai
+
+escape charachter
+
+jo keyboard sy use nhi hota becasuse qk wo html mae use hota hai
+
+Intro to css::.....
+
+there are 3 type of css
+1.inline 
+2.external
+3inpage
+
+
+<h1> or bhi hoskta hai eleemnt hai
+or css selector hojata hai
+
+
+css selector
+
+universal selector:
+pura webpage py nsame syle dayna ka liya hota hai
+*{}
+
+type selector:
+
+h1,h2,h3,p{}
+match element name
+
+class selector
+.note{}
+
+id selector{}
+#note{}
+
+
+child selector:
+p>a{
+}
+div > p,h1{
+
+    color: aqua;
+
+}
+ul>li{}
+li>a{}
+P>b{}
+
+yeh main ka child ko laga 
+
+desendant selector:
+is mae child ka child bhi hoskta mean grannd child yeh aus ka bhhi child 
+div p{}
+
+adjancent sibilng selctor:
+parent ka first child ko hit kara ga
+h1+p{}
+
+General sibiling selcctor:
+yeh wo selector hota jes mae aus ka necha jo bhi hai
+like h1~p{}
+is mae h1 ka jo direct hai
+her aus py p py laga do jo sibing ka level py hai or dirct sibiling nhi hai tw koi masla nhi
+
+
+child or parent ka inerhantice bolta hai
+
+
+
+chapter 11:
+color:
+color ko hm 3type sy define karsta hai
+1 color ka name sy {color:red}
+2 hex code sy {color:#66cdaa}
+3.rgb value{color:rgb{0,0,0}}
+
+jitna bhi hmra pas color ho wo 3 color sy mil kar banta hai
+rgb{}redgreenblue
+0 to 255 tk value hoti hai
+
+hsl color cs3 mae hai
+hue mae 0 to 360 tk hoga
+saturation 0 to 100% chalti hai
+lightness 0 to 100%
+hsl a jo hota hai wo alfa bolta hai
+
+opticity{0 to 1 hai)
+rgba{esa hm opcity bhi day skta hai}
+
+
+
+

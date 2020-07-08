@@ -1,0 +1,41 @@
+chappter 4
+link 
+anchor yeh hota hai jo pura channel ko chalra ho
+like ship ka andr anchor hota hai jo ship ko rok kar rakhta hai
+
+
+there are there type of links
+AbsoLute urLs
+realtive url
+director structure
+
+
+chlidfolder /
+grand chlid//
+parentfolder../
+
+Linking to a Specific part of the smae page
+one page website:
+
+<a href="#div1">heading1</a>
+<a href="#div2">heading2</a>
+<a href="#div3">heading3</a>
+<a href="#div4">heading4</a> 
+
+Linking to A sPeciFic PArt oF Another PAge
+is mae yeh hoga ka dosra page py jana ka sth hi specific div py chala jayaga \
+
+<a href="chlid/child.html#news3>
+
+chapter 5
+Images
+image lagna ka 2 type hai 
+1.image copy url
+2.or image save karla
+
+<img src="" alt="name dayskta hai yaha" height="" width=""> 
+
+
+<figure>
+<figurecaption>mae detail daydo image ki
+

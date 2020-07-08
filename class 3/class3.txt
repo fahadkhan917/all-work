@@ -1,0 +1,111 @@
+table & from
+
+
+table is a cololection of row and colounm
+
+tr represent a table row
+------ row
+
+td tabledata 
+mean jo data dala ga wo row ka andr jaya ga
+
+th mean table heading 
+th laga ga tr mae
+
+
+colspan -------- day ga gap like example
+
+colspan=2
+
+rowspan
+-
+-
+-
+-
+-
+-
+-
+rowspan esa kam kara ga
+
+<thead>line day ga table mae
+<tfoot> foot line day ga footer mae table ka
+
+from
+get or post 
+jb apka pas chota method ho mean chota form ho to get ka method use hoga
+post jb use hoga jb apka pas bara data hai
+
+action kahan apko redircet karwana hai 
+
+form mae name kya hota identide hota hai
+size bara hoga is sy
+max lenght sy wo itna hi laga value
+<input type="text" name="t1" size"5" maxleght=5>
+
+<textarea> bara hoga yeh message ka liya use hota hai
+cols and rows yeh size bara hoga 
+<textarea name="cooment cols=20 rows=4>
+
+</textarea>
+
+<radio>
+
+<input tpye "radio" name="gender" value="" 
+name same dayna sy wk py select hoga
+value sy aus mae jakr save hoga
+</radio>
+
+check box..
+checkbox is mae yeh hoga ka ek sy zyda select kar skta hai
+
+<input type="checkbox" value="">
+
+Dropdownlistbox
+
+<select name="country">
+<option value="pakistan">pakistan</option>
+seleted sy upper jayga dropdown py
+
+</select>
+
+
+upload your file
+<input type="file name="">
+
+button:
+<input type="submit" value="submit">
+<button type="submit" name="">
+
+input type image
+<input type="image" src="" alt="">
+
+
+hidden sy hide karda ga show nhi hoga page py
+<input type="hidden" 
+
+label:
+label for sy focus aya ga aus ki id same honi chaya 
+label for="username">
+<input type="text" id=username">
+
+fieldset
+sy ek border ajayaga ek table ka upper 
+legend sy name aya ga table ka border py
+
+requried ka key word sy wo submit nhi hoga agr apka aus texbox py data na hoto
+
+date :
+date ka liya hoga yeh
+<input type="date" >
+
+email:
+<input type="email">
+
+url:
+<input type="url">
+
+seacrh
+<input type="serach">
+
+
+

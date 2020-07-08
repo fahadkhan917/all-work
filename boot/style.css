@@ -1,0 +1,242 @@
+body{
+
+font-family: Arial, Helvetica, sans-serif;
+
+
+}
+
+#header{
+
+background-color:#316dc3;
+padding: 5px;
+}
+
+#so{
+
+margin:1em;
+text-align: center;
+
+
+
+}
+
+#so>a:hover{
+
+background-color: royalblue;
+
+padding: 5px;
+}
+
+#button{
+
+margin: 0 0em 0em 4em;
+color: chartreuse;
+
+}
+
+
+
+button:hover{
+
+border-color: chartreuse;
+border: 1px solid black;
+
+
+
+}
+
+a:hover{
+
+background-color: royalblue;
+border-radius: 20%;
+
+}
+.dropdown-menu:hover{
+    background-color: royalblue;
+   
+
+
+}
+
+.sec{
+
+background-color:whitesmoke;
+
+
+
+}
+.mark1{
+
+    background-color:rgb(86, 75, 233);
+    padding: 2px 2px 2px 2px;
+   margin: 10px 100px 0 100px;
+   color:white;
+   margin: 1em;
+
+}
+
+.new{
+
+    color:lightgreen;
+
+}
+
+.du{
+
+color: green;
+
+}
+
+h1,du{
+
+ text-align: center;
+    color:rgb(86, 75, 233);
+    padding: 2px;
+    margin-bottom: 200em;
+
+  
+ 
+}
+.ph{
+
+    padding: 0 5em 0 5em;
+ margin: 2em;
+  text-align: justify;
+ 
+
+
+
+}
+
+
+.count{
+
+background-color: #2755e9;
+border: 1px solid black;
+padding: 5em 4em 5em 2em;
+
+}
+
+
+.big{
+
+font-size: 40px;
+
+}
+.doing{
+
+
+margin: 5em auto;
+
+
+}
+
+.what{
+
+background-color: black;
+
+}
+
+.h{
+
+    color: blue;
+    padding: 80px 100px 80px 100px; 
+    background-color:wheat;
+    text-align: center;
+    margin: 0 auto;
+   
+}
+
+
+.boxs{
+
+
+}
+
+
+.box{
+
+background-color: white;
+height: 200px;
+width: auto;
+text-align: center;
+
+padding: 50px;
+margin: 0em 0em 2em ;
+box-shadow: 1px 10px 8px 6px #888888;
+
+}
+
+.online{
+
+color: #191970;
+font-size: 30px;
+font-weight: bold;
+
+}
+
+.mar{
+
+padding: 20px;
+margin: 0em 0em 5em;
+}
+
+
+.mission{
+    color: #191970;
+font-size: 30px;
+margin: 5em 0em;
+font-weight: bold;
+font-family:   'Times New Roman', serif
+
+}
+
+
+.mark2{
+
+   padding: 0px 1px 0px 0px;
+    font-size: 12px;  
+
+  
+}
+
+.mitxt{
+
+font-size: 18px;
+color: 	#4169E1;
+font-weight: bold;
+padding: 30px;
+
+
+}
+
+.footer{
+
+
+background-color: #232730 ;
+padding: 80px 20px 100px;
+color: white;
+margin: 0em 0em -5em 0em;
+font-size: 13px;
+
+}
+
+.copy{
+
+background-color: blue;
+margin: 2em 0;
+color: white;
+padding: 20px;
+}
+
+.use{
+
+font-weight: bold;
+
+}
+
+.lead{
+
+font-size: 8px;
+
+}

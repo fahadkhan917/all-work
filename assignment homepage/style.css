@@ -1,0 +1,40 @@
+
+col-xs-6 col-md-4{
+
+display: inline-block;
+
+}
+
+#main{
+
+    
+
+      
+        
+
+}
+
+#header{
+
+background-color: blue;
+
+
+}
+
+img:hover{
+
+background-color: blueviolet;
+border: 5px solid black;
+
+}
+
+#social{
+
+    margin: 10px 0px 0px 100px;
+}
+
+.p{
+
+display: inline-block;
+
+}

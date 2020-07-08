@@ -1,0 +1,20 @@
+#main{
+
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+flex-wrap: wrap;
+
+}
+
+#one,#two,#three{
+
+border: 1px solid black;
+width: 300px;
+}
+
+#two{
+
+flex: 1;
+text-align: center;
+}

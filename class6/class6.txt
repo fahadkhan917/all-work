@@ -1,0 +1,57 @@
+text -shadow:
+ text-shadow: 1px 2px 2px coral;
+leftrigt topbottom kitni hoga then color:
+
+
+first letter:
+yeh first letter ko kara ga
+  p:first-letter{
+
+    font-size: 100px;
+
+    }
+
+id ka through bhi karskta hai
+
+    p#p1:first-letter{
+
+    font-size: 100px;
+
+    }
+
+first line:
+yrh pheli line ko kara ga
+ p#p1:first-line{
+
+     color: darkblue;
+
+    }
+
+link,visted,hover,focus,active:
+ a.for:link{
+
+color: darkcyan;
+text-decoration: none;
+    }
+a.for:visited{
+    color: black;
+
+
+}
+
+a.for:hover{
+
+color: blue;
+background-color:blueviolet;
+
+}
+input:focus{
+color:darkturquoise;
+background-color: darkviolet;
+}
+input:active{
+
+background-color:black
+
+}
+ 

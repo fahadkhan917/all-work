@@ -1,0 +1,65 @@
+chapter 12
+
+in this chapter we are covering 
+1.size and typeface of text
+2.Bold,italics,capitals,underline
+3.spacig between lines,words,and letters
+
+typeface terminology
+
+like 
+font family
+
+font weight:
+light,meddium ,bold ,black
+
+font-style:
+normal,italic,oblique
+
+font family 
+font size:
+we are giving 4 way in px,per,em,pt
+
+agr hm download kara tw upper esa laga kar karska hai hum use
+@face-familty:'ubuntu';
+src:url('fonts/ubunutulight.tttf);}
+
+in font weight we are doing a bold an ilatics
+font style:
+
+
+Text-transform:
+upper case or lower case yeh kar ga ka pura ko upper karda or lower sub ko chota karda ga
+or capitalize yeh karaga ka first word ko karaga bara 
+
+
+Text-decoration:
+is mae underline overline line throught ata hai or none bhi ata hai
+
+line-height:
+is mae line ka weight ayaga mean line mae kitna gap ayaga 
+
+word spacing or letter spacing:
+word spacing mae ek word ko kitna gap dayna hai wo btaya ga 
+
+letter spacing:
+
+ek letter mae kitna gap dayna hai
+
+
+alignment:
+
+center,left,right,bottom
+
+justify
+is mae hm yeh karta hai mean 2 line ka end ek jaga py end hoga 
+
+text indent:
+yeh text ko move karwana ka liya hota hai
+
+
+
+
+
+
+
