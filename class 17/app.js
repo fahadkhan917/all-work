@@ -30,7 +30,16 @@
 var min=0;
 var sec=0;
 var msec=0;
-var minhead=document.getElementById("")
+var minhead=document.getElementById("min");
+var sechead=document.getElementById("sec");
+var msechead=document.getElementById("msec");
+var inter
+
+function timer(){
+msec++;
+msechead.in
+
+}
 
 
 
