@@ -116,3 +116,12 @@
 //Nodename tag ka bara mae btaya ga htm ka wo kon sa hai
 // var a=document.getElementById("firstson");
 // console.log(a.nodeName);
+
+
+//node value or bina tag ka access karna hai tw esa kara ga
+// var a=document.getElementById("papa");
+// console.log(a.childNodes[0].nodeValue);
+
+
+var a=document.getElementById("papa");
+console.log(a.childNodes);
