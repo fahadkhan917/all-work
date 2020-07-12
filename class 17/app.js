@@ -84,5 +84,27 @@
 // console.log(document.childNodes[1].childNodes[1].childNodes[0] );
 
 
-console.log(document.childNodes[1].childNodes[1].childNodes[0].childNodes[1]);
+// var a=document.getElementById("papa");
+// console.log(a.childNodes[1]);
 
+//firstchild
+// var a=document.getElementById("papa");
+// console.log(a.firstChild);
+
+
+
+//nextsibling
+// var a=document.getElementById("firstson");
+// console.log(a.nextSibling);
+
+//lastchild
+// var a=document.getElementById("papa");
+// console.log(a.lastChild);
+
+//parentNode
+// var a=document.getElementById("secson");
+// console.log(a.parentNode);
+
+//nodetype yeh 1 or 3 number mae return kara gai
+var a=document.getElementById("firstson");
+console.log(a.nodeType);
