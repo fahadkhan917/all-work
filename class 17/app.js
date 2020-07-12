@@ -123,5 +123,8 @@
 // console.log(a.childNodes[0].nodeValue);
 
 
-var a=document.getElementById("papa");
-console.log(a.childNodes);
+// var a=document.getElementById("papa");
+// console.log(a.childNodes);
+
+var a=document.getElementById("pgl");
+console.log(a.childNodes[0]);
