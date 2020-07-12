@@ -106,5 +106,13 @@
 // console.log(a.parentNode);
 
 //nodetype yeh 1 or 3 number mae return kara gai
-var a=document.getElementById("firstson");
-console.log(a.nodeType);
+// var a=document.getElementById("firstson");
+// console.log(a.nodeType);
+
+//nodetype
+// var a=document.getElementById("firstson");
+// console.log(a.childNodes[0].nodeType);
+
+//Nodename tag ka bara mae btaya ga htm ka wo kon sa hai
+// var a=document.getElementById("firstson");
+// console.log(a.nodeName);
