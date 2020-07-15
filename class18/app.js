@@ -25,20 +25,38 @@
 // b.style.backgroundColor='green';
 
 
+// function abc(){
+
+// var num1=document.getElementById("nu1").value;
+// var num2=document.getElementById("nu2").value;
+// var opr=document.getElementById("opr").value;
+
+// if(opr=="+"){
+//     var sum=+num1+(+num2);
+//     para.value=sum;
+// }
+
+
+// else if(opr=="-"){
+//     var sum=+num1+(+num2);
+//     para.innerHTML=sum;
+// }
+// }
+
 function abc(){
 
-var num1=document.getElementById("nu1").value;
-var num2=document.getElementById("nu2").value;
-var opr=document.getElementById("opr").value;
-
-if(opr=="+"){
-    var sum=+num1+(+num2);
-    para.innerHTML=sum;
+var num1=document.getElementById("num").value;
+for(var i=0;i<10;i++){
+    var b=num1*i;
+    para.innerHTML=b;
+   console.log(b);
 }
 
+}
 
-else if(opr=="-"){
-    var sum=+num1+(+num2);
-    para.innerHTML=sum;
-}
-}
+// var user=prompt("enter the number");
+// for(var i=0;i<10;i++){
+
+// document.write(user*i);
+
+// }
