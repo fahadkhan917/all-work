@@ -43,20 +43,28 @@
 // }
 // }
 
-function abc(){
+// function abc(){
 
-var num1=document.getElementById("num").value;
-for(var i=0;i<10;i++){
-    var b=num1*i;
-    para.innerHTML=b;
-   console.log(b);
-}
-
-}
-
-// var user=prompt("enter the number");
+// var num1=document.getElementById("num").value;
 // for(var i=0;i<10;i++){
+//     var b=num1*i;
+//     para.innerHTML=b;
+//    console.log(b);
+// }
 
-// document.write(user*i);
+// }
+
+// function abc(){
+
+// var chk=document.getElementById("num").value;
+// if(chk==="fahad"){
+// document.write("welcome"+chk);
+
+// }
+// else{
+
+// document.write("you are not user");
+
+// }
 
 // }
