@@ -70,20 +70,32 @@
 // }
 
 
+// function abc(){
+
+//     var user=document.getElementById("usr").value;
+//     var pass=document.getElementById("pass").value;
+//     if(user==="fahad" && pass==="123"){
+
+
+//         h.innerHTML="succsful login";
+
+//     }
+
+//     else{
+
+//         h.innerHTML="sorry";;
+//     }
+
+// }
+
 function abc(){
 
     var user=document.getElementById("usr").value;
-    var pass=document.getElementById("pass").value;
-    if(user==="fahad" && pass==="123"){
-
-
-        h.innerHTML="succsful login";
-
-    }
-
-    else{
-
-        h.innerHTML="sorry";;
-    }
+    var b=user.slice(0,1);
+    var b=b.toUpperCase();
+    var c=user.slice(1,length[length-1]);
+    var c=c.toLowerCase();
+    h.innerHTML=b+c;
+    
 
 }
