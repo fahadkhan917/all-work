@@ -11,10 +11,15 @@
 // var ele=document.getElementsByTagName("p");
 // ele[0].innerHTML="fahad";
 
-var ele=document.body.childNodes[13];
-var b=ele.nodeType;
-if(b==1){
+// var ele=document.body.childNodes[13];
+// var b=ele.nodeType;
+// if(b==1){
 
-ele.innerHTML="fahad";
+// ele.innerHTML="fahad";
 
-}
+// }
+
+
+var ele=document.getElementById("boss");
+var b=ele.childNodes[1];
+b.style.backgroundColor='green';
