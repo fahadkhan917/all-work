@@ -20,6 +20,6 @@
 // }
 
 
-var ele=document.getElementById("boss");
-var b=ele.childNodes[1];
-b.style.backgroundColor='green';
+// var ele=document.getElementById("boss");
+// var b=ele.childNodes[1];
+// b.style.backgroundColor='green';
