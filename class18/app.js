@@ -88,14 +88,27 @@
 
 // }
 
+// function abc(){
+
+//     var user=document.getElementById("usr").value;
+//     var b=user.slice(0,1);
+//     var b=b.toUpperCase();
+//     var c=user.slice(1,length[length-1]);
+//     var c=c.toLowerCase();
+//     h.innerHTML=b+c;
+    
+
+// }
+
 function abc(){
 
-    var user=document.getElementById("usr").value;
-    var b=user.slice(0,1);
-    var b=b.toUpperCase();
-    var c=user.slice(1,length[length-1]);
-    var c=c.toLowerCase();
-    h.innerHTML=b+c;
-    
+
+var nu1=document.getElementById("nu1").value;
+var nu2=document.getElementById("nu2").value;
+var nu3=document.getElementById("nu3").value;
+var nu4=document.getElementById("nu4").value;
+var nu5=document.getElementById("nu5").value;
+
+h.innerHTML=(+nu1)+(+nu2)+(+nu3)+(+nu4)+(+nu5);
 
 }
