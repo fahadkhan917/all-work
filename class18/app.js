@@ -23,3 +23,16 @@
 // var ele=document.getElementById("boss");
 // var b=ele.childNodes[1];
 // b.style.backgroundColor='green';
+
+
+function abc(){
+
+var num1=document.getElementById("nu1").value;
+var num2=document.getElementById("nu2").value;
+var opr=document.getElementById("opr").value;
+
+if(opr=="+"){
+    var sum=+num1+(+num2);
+    para.innerHTML=sum;
+}
+}
