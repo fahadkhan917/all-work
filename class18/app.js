@@ -68,3 +68,22 @@
 // }
 
 // }
+
+
+function abc(){
+
+    var user=document.getElementById("usr").value;
+    var pass=document.getElementById("pass").value;
+    if(user==="fahad" && pass==="123"){
+
+
+        h.innerHTML="succsful login";
+
+    }
+
+    else{
+
+        h.innerHTML="sorry";;
+    }
+
+}
