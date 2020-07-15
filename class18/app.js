@@ -35,4 +35,10 @@ if(opr=="+"){
     var sum=+num1+(+num2);
     para.innerHTML=sum;
 }
+
+
+else if(opr=="-"){
+    var sum=+num1+(+num2);
+    para.innerHTML=sum;
+}
 }
