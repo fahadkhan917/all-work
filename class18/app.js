@@ -109,6 +109,14 @@ var nu3=document.getElementById("nu3").value;
 var nu4=document.getElementById("nu4").value;
 var nu5=document.getElementById("nu5").value;
 
-h.innerHTML=(+nu1)+(+nu2)+(+nu3)+(+nu4)+(+nu5);
 
+var arr=[nu1,nu2,nu3,nu4,nu5];
+var sum=0;
+for(var i=0;i<arr.length;i++){
+sum+=+(arr[i]);
+
+
+}
+
+h.innerHTML=sum;
 }
