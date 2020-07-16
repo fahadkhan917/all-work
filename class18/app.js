@@ -100,23 +100,44 @@
 
 // }
 
-function abc(){
+// function abc(){
 
 
-var nu1=document.getElementById("nu1").value;
-var nu2=document.getElementById("nu2").value;
-var nu3=document.getElementById("nu3").value;
-var nu4=document.getElementById("nu4").value;
-var nu5=document.getElementById("nu5").value;
+// var nu1=document.getElementById("nu1").value;
+// var nu2=document.getElementById("nu2").value;
+// var nu3=document.getElementById("nu3").value;
+// var nu4=document.getElementById("nu4").value;
+// var nu5=document.getElementById("nu5").value;
 
 
-var arr=[nu1,nu2,nu3,nu4,nu5];
-var sum=0;
-for(var i=0;i<arr.length;i++){
-sum+=+(arr[i]);
+// var arr=[nu1,nu2,nu3,nu4,nu5];
+// var sum=0;
+// for(var i=0;i<arr.length;i++){
+// sum+=+(arr[i]);
 
 
-}
+// }
 
-h.innerHTML=sum;
+
+// h.innerHTML=sum;
+
+// }
+
+// }
+
+
+function  abc(){
+
+var img=document.getElementById("pro");
+var name=document.getElementById("na");
+var price=document.getElementById("pr");
+var im=document.getElementById("im");
+var brna=document.getElementById("br_na");
+var pr=document.getElementById("price");
+
+im.src=img.src;
+brna.innerHTML=name.innerHTML;
+pr.innerHTML=price.innerHTML;
+
+
 }

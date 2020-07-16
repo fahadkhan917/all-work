@@ -1,0 +1,12 @@
+.sec{
+
+height: 400px;
+background-color: aqua;
+width: 500px
+}
+
+.main{
+
+display: flex;
+
+}
