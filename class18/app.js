@@ -177,5 +177,15 @@
 // console.log(p.getAttribute("class"));
 
 
-var p=document.getElementById("p1");
-p.setAttribute("class","sec");
+// var p=document.getElementById("p1");
+// p.setAttribute("class","sec");
+
+//chapter 66
+// var p=document.getElementById("p1");
+// console.log(p.attributes);
+
+// var p=document.getElementById("p1");
+// console.log(p.attributes[1].nodeName);
+
+// var p=document.getElementById("p1");
+// console.log(p.attributes[1].nodeValue);
