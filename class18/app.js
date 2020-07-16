@@ -160,5 +160,14 @@
 
 //chapter 64
 
-var list=document.getElementsByTagName("li");
-console.log(list[1].innerHTML);
+// var list=document.getElementsByTagName("li");
+// console.log(list.length);
+
+//chapter 65
+
+var p=document.getElementById("p1");
+if(p.hasAttribute("id")){
+
+alert("class is here");
+
+}
