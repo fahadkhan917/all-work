@@ -206,6 +206,23 @@
 // main.appendChild(p);
 
 
+function abc(){
+
+var a=document.getElementById("val");
+var p=document.createElement("h1");
+var text=document.createTextNode(a.value);
+p.appendChild(text);
+var main=document.getElementById("main");
+main.appendChild(p);
+
+a.value=" ";
+
+
+
+
+}
+
+
 
 
 
