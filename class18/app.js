@@ -142,18 +142,23 @@
 
 // }
 
-function abc(){
+// function abc(){
 
-return "fahad";
+// return "fahad";
 
-}
+// }
 
-function xyz(){
+// function xyz(){
 
-var b="khan"
- var c=abc()+b;
- document.write(c);   
+// var b="khan"
+//  var c=abc()+b;
+//  document.write(c);   
 
-}
+// }
 
-xyz();
+// xyz();
+
+//chapter 64
+
+var list=document.getElementsByTagName("li");
+console.log(list[1].innerHTML);
