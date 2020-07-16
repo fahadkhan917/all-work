@@ -126,18 +126,34 @@
 // }
 
 
-function  abc(){
+// function  abc(){
 
-var img=document.getElementById("pro");
-var name=document.getElementById("na");
-var price=document.getElementById("pr");
-var im=document.getElementById("im");
-var brna=document.getElementById("br_na");
-var pr=document.getElementById("price");
+// var img=document.getElementById("pro");
+// var name=document.getElementById("na");
+// var price=document.getElementById("pr");
+// var im=document.getElementById("im");
+// var brna=document.getElementById("br_na");
+// var pr=document.getElementById("price");
 
-im.src=img.src;
-brna.innerHTML=name.innerHTML;
-pr.innerHTML=price.innerHTML;
+// im.src=img.src;
+// brna.innerHTML=name.innerHTML;
+// pr.innerHTML=price.innerHTML;
 
+
+// }
+
+function abc(){
+
+return "fahad";
 
 }
+
+function xyz(){
+
+var b="khan"
+ var c=abc()+b;
+ document.write(c);   
+
+}
+
+xyz();
