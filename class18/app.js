@@ -165,9 +165,17 @@
 
 //chapter 65
 
+// var p=document.getElementById("p1");
+// if(p.hasAttribute("id")){
+
+// alert("class is here");
+
+// }
+
+
+// var p=document.getElementById("p1");
+// console.log(p.getAttribute("class"));
+
+
 var p=document.getElementById("p1");
-if(p.hasAttribute("id")){
-
-alert("class is here");
-
-}
+p.setAttribute("class","sec");
