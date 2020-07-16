@@ -189,3 +189,11 @@
 
 // var p=document.getElementById("p1");
 // console.log(p.attributes[1].nodeValue);
+
+//chapter 67
+var p=document.createElement('p');
+var text=document.createTextNode("hellow world");
+p.appendChild(text);
+var main=document.getElementById("main");
+main.appendChild(p);
+console.log(p);
