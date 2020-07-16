@@ -199,6 +199,11 @@
 // console.log(p);
 
 
+// var p=document.createElement('p');
+// var text=document.createTextNode("hellow world");
+// p.appendChild(text);
+// var main=document.getElementById("main");
+// main.appendChild(p);
 
 
 
@@ -212,9 +217,3 @@
 
 
 
-
-var p=document.createElement('p');
-var text=document.createTextNode("hellow world");
-p.appendChild(text);
-var main=document.getElementById("main");
-main.appendChild(p);
