@@ -11,3 +11,21 @@
 // a.value=eval(a.value);
 
 // }
+
+// function abc(){
+// var val=document.getElementById("val");
+// var a=document.createElement('h1');
+// var text=document.createTextNode(val.value);
+// a.appendChild(text);
+// var ma=document.getElementById("main");
+// ma.appendChild(a);
+
+
+
+
+
+// }
+
+// my pratice end
+
+
