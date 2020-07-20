@@ -85,13 +85,34 @@
 
 // }
 
+// function abc(){
+
+// var a=document.createElement('button');
+// a.innerHTML="submit";
+
+// document.body.appendChild(a);
+
+
+
+// }
+
+
+// function abc(){
+
+// var a=document.createElement('p');
+// var text=document.createTextNode('hello fahad');
+// var par=document.getElementById('para');
+// a.appendChild(text);
+// par.innerHTML=a.innerHTML;
+
+// }
+
 function abc(){
 
-var a=document.createElement('button');
-a.innerHTML="submit";
-
-document.body.appendChild(a)
-
+    var a=document.createElement('img');
+    a.setAttribute('src','on.jpg');
+    document.body.appendChild(a);
+    
 
 
 }
