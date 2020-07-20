@@ -28,15 +28,15 @@
 
 // my pratice end
 
-function abc(e){
+// function abc(e){
 
 
-var i=document.getElementById("i");
-i.src=e.src;
+// var i=document.getElementById("i");
+// i.src=e.src;
 
 
 
-}
+// }
 
 
 // function abc(){
@@ -45,3 +45,12 @@ i.src=e.src;
 // a.src="off.jpg";
 
 // }
+
+
+function a(){
+
+var d=document.getElementById("val");
+var ma=document.getElementById("main");
+ma.innerText=d.value;
+
+}
