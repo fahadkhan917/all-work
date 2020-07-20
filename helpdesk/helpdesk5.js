@@ -55,17 +55,32 @@
 
 // }
 
+// function ab(){
+
+// var brand=document.getElementById('b');
+// var price=document.getElementById('p');
+// var img=document.getElementById('i');
+// var main=document.getElementById("main");
+
+// var addimg=document.getElementById("addimg");
+
+// // main.innerHTML=brand.innerHTML;
+// // main.innerHTML=price.innerHTML;
+// addimg.src=img.src;
+
+
+// }
+
+// function cl(){
+
+//     var ab=document.getElementById('i');
+//     ab.setAttribute("class","di");
+// }
+
 function ab(){
 
-var brand=document.getElementById('b');
-var price=document.getElementById('p');
-var img=document.getElementById('i');
-var main=document.getElementById("main");
-var addimg=document.getElementById("addimg");
-
-// main.innerHTML=brand.innerHTML;
-// main.innerHTML=price.innerHTML;
-addimg.src=img.src;
-
+var img=document.getElementById("a");
+var modalimg=document.getElementById("modalimg");
+modalimg.src=img.src;
 
 }
