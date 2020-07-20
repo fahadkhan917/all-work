@@ -28,4 +28,20 @@
 
 // my pratice end
 
+function abc(e){
 
+
+var i=document.getElementById("i");
+i.src=e.src;
+
+
+
+}
+
+
+// function abc(){
+
+// var a=document.getElementById("main");
+// a.src="off.jpg";
+
+// }
