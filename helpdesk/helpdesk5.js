@@ -88,6 +88,10 @@
 function abc(){
 
 var a=document.createElement('button');
+a.innerHTML="submit";
+
+document.body.appendChild(a)
+
 
 
 }
