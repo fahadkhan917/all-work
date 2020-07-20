@@ -47,10 +47,25 @@
 // }
 
 
-function a(){
+// function a(){
 
-var d=document.getElementById("val");
-var ma=document.getElementById("main");
-ma.innerText=d.value;
+// var d=document.getElementById("val");
+// var ma=document.getElementById("main");
+// ma.innerText=d.value;
+
+// }
+
+function ab(){
+
+var brand=document.getElementById('b');
+var price=document.getElementById('p');
+var img=document.getElementById('i');
+var main=document.getElementById("main");
+var addimg=document.getElementById("addimg");
+
+// main.innerHTML=brand.innerHTML;
+// main.innerHTML=price.innerHTML;
+addimg.src=img.src;
+
 
 }
