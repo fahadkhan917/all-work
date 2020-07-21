@@ -77,10 +77,17 @@
 //     ab.setAttribute("class","di");
 // }
 
-function ab(){
+// function ab(){
 
-var img=document.getElementById("a");
-var modalimg=document.getElementById("modalimg");
-modalimg.src=img.src;
+// var img=document.getElementById("a");
+// var modalimg=document.getElementById("modalimg");
+// modalimg.src=img.src;
+
+// }
+
+function abc(){
+
+var a=document.createElement('button');
+
 
 }
