@@ -1,13 +1,13 @@
 // todo application cover
 
-var list=document.getElementById("list");
+var lis=document.getElementById("list");
 function to(){
 
 var v=document.getElementById("val");
 var li=document.createElement('li');
 var txtli=document.createTextNode(v.value);
 li.appendChild(txtli);
-list.appendChild(li);
+lis.appendChild(li);
 
 
 //deltebtn
@@ -15,7 +15,8 @@ var dlebtn=document.createElement("button");
 var deltxt=document.createTextNode("delete");
 dlebtn.appendChild(deltxt);
 dlebtn.setAttribute("onclick","deleted(this)");
-list.appendChild(dlebtn);
+lis.appendChild(dlebtn);
+console.log(lis);
 
 //editbtn
 var editbtn=document.createElement('button');
@@ -34,7 +35,7 @@ list.innerHTML="";
 
 function deleted(e){
 
-console.log(e);
+console.log(e.parentNode);
 
 
 }
