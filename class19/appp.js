@@ -1,5 +1,51 @@
 // todo application cover
 
+var list=document.getElementById("list");
+function to(){
+
+var v=document.getElementById("val");
+var li=document.createElement('li');
+var txtli=document.createTextNode(v.value);
+li.appendChild(txtli);
+list.appendChild(li);
+
+
+//deltebtn
+var dlebtn=document.createElement("button");
+var deltxt=document.createTextNode("delete");
+dlebtn.appendChild(deltxt);
+dlebtn.setAttribute("onclick","deleted(this)");
+list.appendChild(dlebtn);
+
+//editbtn
+var editbtn=document.createElement('button');
+var edittxt=document.createTextNode('edit');
+editbtn.appendChild(edittxt);
+list.appendChild(editbtn);
+editbtn.setAttribute("onclick","edit()");
+
+}
+function delall(){
+
+list.innerHTML="";
+
+}
+
+
+function deleted(e){
+
+console.log(e);
+
+
+}
+
+
+function edit(){
+
+
+
+}
+
 // object
 
 
@@ -21,16 +67,16 @@
 // document.write(w);
 
 
-var myQuestion=[
-    {
-  question:"what is your name",
-  answer:{
- a:"fahad",
- b:"asad",
- c:"umer"
+// var myQuestion=[
+//     {
+//   question:"what is your name",
+//   answer:{
+//  a:"fahad",
+//  b:"asad",
+//  c:"umer"
 
-  },
-cor:"c"
+//   },
+// cor:"c"
 
-    }
-]
+//     }
+// ]
