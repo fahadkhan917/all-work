@@ -3,26 +3,28 @@
 var lis=document.getElementById("list");
 function to(){
 
+    var lis=document.getElementById("list");
 var v=document.getElementById("val");
-var li=document.createElement('li');
+var l=document.createElement('li');
 var txtli=document.createTextNode(v.value);
-li.appendChild(txtli);
-lis.appendChild(li);
+l.appendChild(txtli);
+lis.appendChild(l);
 
 
 //deltebtn
 var dlebtn=document.createElement("button");
 var deltxt=document.createTextNode("delete");
+
 dlebtn.appendChild(deltxt);
-dlebtn.setAttribute("onclick","deleted(this)");
-lis.appendChild(dlebtn);
-console.log(lis);
+dlebtn.setAttribute("onclick","deletedbtn(this)");
+l.appendChild(dlebtn);
+
 
 //editbtn
 var editbtn=document.createElement('button');
 var edittxt=document.createTextNode('edit');
 editbtn.appendChild(edittxt);
-list.appendChild(editbtn);
+l.appendChild(editbtn);
 editbtn.setAttribute("onclick","edit()");
 
 }
@@ -33,9 +35,8 @@ list.innerHTML="";
 }
 
 
-function deleted(e){
-
-console.log(e.parentNode);
+function deletedbtn(e){
+console.log(e)
 
 
 }
