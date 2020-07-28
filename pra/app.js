@@ -64,14 +64,28 @@
 
 // }
 
-var a=[24,56,72,21,45];
+// var a=[24,56,72,21,45];
+// var num=a[0];
+// for(var i=0;i<a.length;i++){
+
+//     if(a[i]>num){
+//   num=a[i];
+
+//     }
+ 
+// }
+// document.write("laragest number"+num);
+
+
+var a=[15,78,45,12,11];
 var num=a[0];
 for(var i=0;i<a.length;i++){
+if(a[i]<num){
+num=a[i];
 
-    if(a[i]>num){
-  num=a[i];
 
-    }
- 
 }
-document.write("laragest number"+num);
+
+}
+
+document.write("smallesgt number"+num)
