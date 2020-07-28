@@ -146,20 +146,27 @@
 // }
 // document.write("largest number"+num);
 
-var user=prompt("enter the find in array");
-var a= ["cake","applepie","cookie","chips","patties"];
+// var user=prompt("enter the find in array");
+// var a= ["cake","applepie","cookie","chips","patties"];
 
-for(var i=0;i<a.length;i++){
-if(a[i]==user){
+// for(var i=0;i<a.length;i++){
+// if(a[i]==user){
    
 
-document.write("yes is here"+a.indexOf(a[i]));
-break;
+// document.write("yes is here"+a.indexOf(a[i]));
+// break;
 
-}
+// }
 
-if(i==5){
-    document.write("sorry");
-}
+// if(i==5){
+//     document.write("sorry");
+// }
+
+// }
+
+
+var arr=["ssc","hsc","bcs","bs","bcom","ms","M.phil","Phd"];
+for(var i=0;i<arr.length;i++){
+document.write(arr[i]+"<BR>");
 
 }
