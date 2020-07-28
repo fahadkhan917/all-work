@@ -77,15 +77,24 @@
 // document.write("laragest number"+num);
 
 
-var a=[15,78,45,12,11];
-var num=a[0];
-for(var i=0;i<a.length;i++){
-if(a[i]<num){
-num=a[i];
+// var a=[15,78,45,12,11];
+// var num=a[0];
+// for(var i=0;i<a.length;i++){
+// if(a[i]<num){
+// num=a[i];
 
+
+// }
+
+// }
+
+// document.write("smallesgt number"+num)
+
+
+var a=prompt("enter the table");
+var len=prompt("enter the lenght");
+for(var i=1;i<len;i++){
+
+    document.write(a+"*"+i+"="+a*i+"<br>");
 
 }
-
-}
-
-document.write("smallesgt number"+num)
