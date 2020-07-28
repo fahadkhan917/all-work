@@ -165,8 +165,15 @@
 // }
 
 
-var arr=["ssc","hsc","bcs","bs","bcom","ms","M.phil","Phd"];
-for(var i=0;i<arr.length;i++){
-document.write(arr[i]+"<BR>");
+// var arr=["ssc","hsc","bcs","bs","bcom","ms","M.phil","Phd"];
+// for(var i=0;i<arr.length;i++){
+// document.write(arr[i]+"<BR>");
 
-}
+// }
+
+var a=["fahad","asad","umer"];
+var fahadsc=[89,56,78];
+var asadsc=[56,45,78];
+var umersc=[45,64,91];
+var totalnum=500;
+document.write("score of"+a[0])
