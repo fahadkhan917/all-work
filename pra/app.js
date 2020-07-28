@@ -132,7 +132,16 @@
 
 // }
 
-for(var i=2;i<=20;i=i+2){
-document.write(i+"K");
+// for(var i=2;i<=20;i=i+2){
+// document.write(i+"K");
+
+// }
+var a=[20,50,40,70];
+var num=a[0];
+for(var i=0;i<a.length;i++){
+if(a[i]>num){
+num=a[i];
 
 }
+}
+document.write("largest number"+num);
