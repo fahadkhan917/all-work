@@ -99,8 +99,19 @@
 
 // }
 
-var a=["apple","mango","orange","banana"];
-for(var i=0;i<a.length;i++){
+// var a=["apple","mango","orange","banana"];
+// for(var i=0;i<a.length;i++){
 
-    document.write("Element of"+a.indexOf(a[i])+"is"+a[i]+"<BR>")
-}
+//     document.write("Element of"+a.indexOf(a[i])+"is"+a[i]+"<BR>")
+// }
+
+// document.write("counting");
+// for(i=0;i<=15;i++){
+
+//     document.write(i);
+// }
+
+// for(var i=15;i>0;i--){
+// document.write(i);
+
+// }
