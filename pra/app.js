@@ -124,10 +124,15 @@
 
 // }
 
-for(var i=0;i<20;i++){
-if(i%2==1){
-document.write(i);
+// for(var i=0;i<20;i++){
+// if(i%2==1){
+// document.write(i);
 
-}
+// }
+
+// }
+
+for(var i=2;i<=20;i=i+2){
+document.write(i+"K");
 
 }
