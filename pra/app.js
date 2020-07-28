@@ -91,10 +91,16 @@
 // document.write("smallesgt number"+num)
 
 
-var a=prompt("enter the table");
-var len=prompt("enter the lenght");
-for(var i=1;i<len;i++){
+// var a=prompt("enter the table");
+// var len=prompt("enter the lenght");
+// for(var i=1;i<len;i++){
 
-    document.write(a+"*"+i+"="+a*i+"<br>");
+//     document.write(a+"*"+i+"="+a*i+"<br>");
 
+// }
+
+var a=["apple","mango","orange","banana"];
+for(var i=0;i<a.length;i++){
+
+    document.write("Element of"+a.indexOf(a[i])+"is"+a[i]+"<BR>")
 }
