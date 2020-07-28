@@ -72,5 +72,6 @@ for(var i=0;i<a.length;i++){
   num=a[i];
 
     }
+ 
 }
 document.write("laragest number"+num);
