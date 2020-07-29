@@ -171,9 +171,17 @@
 
 // }
 
-var a=["fahad","asad","umer"];
-var fahadsc=[89,56,78];
-var asadsc=[56,45,78];
-var umersc=[45,64,91];
-var totalnum=500;
-document.write("score of"+a[0])
+// var a=["fahad","asad","umer"];
+// var fahadsc=[89,56,78];
+// var asadsc=[56,45,78];
+// var umersc=[45,64,91];
+// var totalnum=500;
+// document.write("score of"+a[0])
+
+var a=[];
+for(var i=0;i<2;i++){
+
+a[i]=prompt("enter the number");
+document.write(a[i]);
+
+}
