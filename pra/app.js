@@ -177,9 +177,9 @@
 // var umersc=[45,64,91];
 // var totalnum=500;
 // document.write("score of"+a[0])
-
+var size=prompt("emter the size");
 var a=[];
-for(var i=0;i<2;i++){
+for(var i=0;i<size;i++){
 
 a[i]=prompt("enter the number");
 document.write(a[i]);
