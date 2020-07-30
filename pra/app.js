@@ -214,4 +214,8 @@ var color=["red","blue","green","aqua"];
 // var e=prompt("enter the color");
 // color.unshift(d,e);
 // document.write(color);
+// color.shift();
+// document.write(color);
+var g=color.slice(0,2);
+document.write(g)
 
