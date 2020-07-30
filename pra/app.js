@@ -200,15 +200,18 @@
 // document.write("largest number"+num);
 
 var color=["red","blue","green","aqua"];
-document.write(color);
+// document.write(color);
 // var a=prompt("waht do you want add in first");
 // color.unshift(a);
 // document.write(color);
 // var b=prompt("waht do you want add in first");
 // color.pop(b);
 // document.write(color);
-var c=prompt("enter the end color");
-color.push(c);
-document.write(color);
-
+// var c=prompt("enter the end color");
+// color.push(c);
+// document.write(color);
+// var d=prompt("enter the 2 color");
+// var e=prompt("enter the color");
+// color.unshift(d,e);
+// document.write(color);
 
