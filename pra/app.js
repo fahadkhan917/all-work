@@ -186,15 +186,23 @@
 
 // }
 
-var a=[];
+// var a=[];
 
-for(var i=0;i<2;i++){
+// for(var i=0;i<2;i++){
 
-a[i]=prompt("enter the number");
-var num="";
-if(a[i]>num){
-num=a[i]
+// a[i]=prompt("enter the number");
+// var num="";
+// if(a[i]>num){
+// num=a[i]
 
-}
-}
-document.write("largest number"+num);
+// }
+// }
+// document.write("largest number"+num);
+
+var color=["red","blue","green","aqua"];
+document.write(color);
+var a=prompt("waht do you want add in first");
+color.unshift(a);
+document.write(color);
+
+
