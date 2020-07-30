@@ -199,7 +199,7 @@
 // }
 // document.write("largest number"+num);
 
-var color=["red","blue","green","aqua"];
+// var color=["red","blue","green","aqua"];
 // document.write(color);
 // var a=prompt("waht do you want add in first");
 // color.unshift(a);
@@ -222,7 +222,13 @@ var color=["red","blue","green","aqua"];
 // document.write(color)
 
 
-var sc=[320,120,45,78];
-sc.sort();
+// var sc=[320,120,45,78];
+// sc.sort();
 
-document.write(sc);
+// document.write(sc);
+
+var city=["karachi","lahore","hyderabad","quetta"];
+var select=[];
+var a=city.splice(2,4);
+var b=select.concat(a);
+document.write(b);
