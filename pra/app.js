@@ -216,6 +216,13 @@ var color=["red","blue","green","aqua"];
 // document.write(color);
 // color.shift();
 // document.write(color);
-var g=color.slice(0,2);
-document.write(g)
+// var g=color.slice(0,2);
+// document.write(g)
+// color.splice(1,3,"ali")
+// document.write(color)
 
+
+var sc=[320,120,45,78];
+sc.sort();
+
+document.write(sc);
