@@ -204,5 +204,7 @@ document.write(color);
 var a=prompt("waht do you want add in first");
 color.unshift(a);
 document.write(color);
+var b=prompt("waht do you want add in first");
+color.pop(b);
 
 
