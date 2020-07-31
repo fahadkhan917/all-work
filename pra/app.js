@@ -284,3 +284,17 @@
 // document.write(b);
 
 
+// var num="472";
+// document.write("sting"+num+"<br>");
+// var b=Number(num);
+// document.write(b);
+
+// var a=prompt("enter the value");
+// var b=a.toUpperCase();
+// document.write(b);
+
+
+
+
+
+
