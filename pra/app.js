@@ -250,9 +250,13 @@
 // document.write(arr.shift());
 
 
-var arr=[];
-arr.push('keyboard','mouse','printer','monitor');
-document.write(arr.pop());
-document.write(arr.pop());
-document.write(arr.pop());
-document.write(arr.pop());
+// var arr=[];
+// arr.push('keyboard','mouse','printer','monitor');
+// document.write(arr.pop());
+// document.write(arr.pop());
+// document.write(arr.pop());
+// document.write(arr.pop());
+
+var a="samsung galaxy s6 edge plus";
+var len=a.length;
+document.write(len);
