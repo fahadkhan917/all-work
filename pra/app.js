@@ -237,4 +237,3 @@
 // var arr=["this","is","my","cat"];
 // var b=arr.join('');
 // document.write(b);
-
