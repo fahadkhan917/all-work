@@ -314,3 +314,7 @@
 // document.write("<br>"+a[i]);
 
 // }
+
+// var a=prompt("enter plz");
+// var b=a.length-1;
+// document.write(b);
