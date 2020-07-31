@@ -227,8 +227,14 @@
 
 // document.write(sc);
 
-var city=["karachi","lahore","hyderabad","quetta"];
-var select=[];
-var a=city.splice(2,4);
-var b=select.concat(a);
-document.write(b);
+// var city=["karachi","lahore","hyderabad","quetta"];
+// var select=[];
+// var a=city.splice(2,4);
+// var b=select.concat(a);
+// document.write(b);
+
+
+// var arr=["this","is","my","cat"];
+// var b=arr.join('');
+// document.write(b);
+
