@@ -237,3 +237,7 @@
 // var arr=["this","is","my","cat"];
 // var b=arr.join('');
 // document.write(b);
+
+
+var arr=["apple","samsumg","motorola","nokia","sony","haier"];
+document.write("<select><option>"+arr[0]+"</option><option>"+arr[1]+"</option><option>"+arr[2]+"</option><option>"+arr[0]+"</option><option>"+arr[3]+"</option><option>"+arr[4]+"</option><option>"+arr[5]+"</option></select>")
