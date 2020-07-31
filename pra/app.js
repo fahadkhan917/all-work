@@ -264,3 +264,13 @@
 // var a="pakistani";
 // var b=a.indexOf('n');
 // document.write(b);
+
+
+// var a="hello world";
+// var b=a.lastIndexOf('l');
+// document.write(b);
+
+// var a="pakistani";
+// var b=a.charAt(3);
+// document.write(b);
+
