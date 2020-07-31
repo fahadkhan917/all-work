@@ -301,6 +301,16 @@
 // var a=c+e;
 // document.write(a);
 
+// var num="35.36";
+// var b=num.replace('.','');
+
+// document.write(b);
 
 
 
+// var a="karachi of university";
+// var b=a.split('');
+// for(var i=0;i<a.length;i++){
+// document.write("<br>"+a[i]);
+
+// }
