@@ -293,7 +293,13 @@
 // var b=a.toUpperCase();
 // document.write(b);
 
-
+// var a=prompt("enter the value");
+// var b=a.slice(0,1);
+// var c=b.toUpperCase();
+// var d=a.slice(1,length[length-1]);
+// var e=d.toLowerCase();
+// var a=c+e;
+// document.write(a);
 
 
 
