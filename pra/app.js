@@ -257,6 +257,10 @@
 // document.write(arr.pop());
 // document.write(arr.pop());
 
-var a="samsung galaxy s6 edge plus";
-var len=a.length;
-document.write(len);
+// var a="samsung galaxy s6 edge plus";
+// var len=a.length;
+// document.write(len);
+
+// var a="pakistani";
+// var b=a.indexOf('n');
+// document.write(b);
