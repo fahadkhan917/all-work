@@ -325,11 +325,15 @@
 // document.write("count of occuerence of the in the string is"+count);
 
 
-var user=prompt("enter the usename");
-for(i=0;i<user.length;i++){
+// var user=prompt("enter the usename");
+// for(i=0;i<user.length;i++){
 
-    if(user.charCodeAt(i)===33){
-   alert("please enter the valid username");
+//     if(user.charCodeAt(i)===33){
+//    alert("please enter the valid username");
 
-    }
-}
+//     }
+// }
+
+// var a="fahad";
+// var b=a.charCodeAt(3);
+// document.write(b);
