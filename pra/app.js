@@ -335,5 +335,14 @@
 // }
 
 // var a="fahad";
-// var b=a.charCodeAt(3);
+// var b=a.charCodeAt(2);
 // document.write(b);
+
+
+var a="fa!had";
+for(i=0;i<a.length;i++){
+if(a.charCodeAt(i)===33){
+
+document.write("yes is here")
+}
+}
