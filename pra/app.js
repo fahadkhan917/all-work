@@ -504,3 +504,10 @@
 // document.write("floor"+floo);
 // var ceilvalue=Math.ceil(num);
 // document.write("ceil"+ceilvalue);
+
+// var user=prompt("enter the number");
+// var absval=Math.abs(user);
+// document.write(absval);
+
+var randvalue=Math.floor(Math.random()*6);
+document.write("the value of the dice is"+randvalue);
