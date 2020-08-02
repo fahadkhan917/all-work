@@ -323,3 +323,13 @@
 // var a="the quick brown fox jumps over the lazy dog";
 // var count=a.match(/the/g).length;
 // document.write("count of occuerence of the in the string is"+count);
+
+
+var user=prompt("enter the usename");
+for(i=0;i<user.length;i++){
+
+    if(user.charCodeAt(i)===33){
+   alert("please enter the valid username");
+
+    }
+}
