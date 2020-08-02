@@ -383,14 +383,43 @@
 // }
 
 
-var arr=[25,56,45,55];
-var val=arr[0];
-for(var i=0;i<arr.length;i++){
-if(arr[i]<val){
-val=arr[i];
+// var arr=[25,56,45,55];
+// var val=arr[0];
+// for(var i=0;i<arr.length;i++){
+// if(arr[i]<val){
+// val=arr[i];
 
-}
-}
+// }
+// }
 
 
-document.write("largest value"+val);
+// document.write("largest value"+val);
+
+// var a=prompt("enter the word");
+// var num="";
+// for(var i=a.length-1;i>=0;i--){
+
+// num+=a[i];
+
+// }
+
+// if(a==num){
+
+
+//     document.write("yes");
+// }
+
+// else{
+
+//     document.write("soory")
+// }
+
+
+
+// for(i=1;i<=100;i=i+10){
+//  for(j=i;j<=i+9;j++){
+// document.write(j);
+
+//  }
+// document.write("<br>")
+// }
