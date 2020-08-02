@@ -348,20 +348,49 @@
 // }
 
 
-var user=prompt("enter the user");
-var newstring="";
-for(var i=user.length-1;i>=0;i--){
+// var user=prompt("enter the user");
+// var newstring="";
+// for(var i=user.length-1;i>=0;i--){
 
-newstring+=user[i];
+// newstring+=user[i];
+
+// }
+// if(user===newstring){
+
+//     document.write("yes");
+// }
+
+// else{
+
+// document.write("soory");
+
+// }
+
+
+// var pass=prompt("enter the password");
+// var passwordvalue;
+// if(pass.length>6){
+
+// alert("yes it lenght is greater than 6");
+
+
+// }
+
+// else{
+
+// alert("soory");
+
+// }
+
+
+var arr=[25,56,45,55];
+var val=arr[0];
+for(var i=0;i<arr.length;i++){
+if(arr[i]<val){
+val=arr[i];
 
 }
-if(user===newstring){
-
-    document.write("yes");
 }
 
-else{
 
-document.write("soory");
-
-}
+document.write("largest value"+val);
