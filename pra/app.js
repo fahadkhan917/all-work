@@ -462,3 +462,29 @@
 
 // }
 
+
+function abc(){
+
+var val1=document.getElementById('val1').value;
+var val2=document.getElementById('val2').value;
+var val3=document.getElementById('val3').value;
+var val4=document.getElementById('val4').value;
+var para=document.getElementById('para');
+var text="smaller number"
+var arr=[val1,val2,val3,val4];
+var num=arr[0];
+for(var i=0;i<arr.length;i++){
+if(arr[i]<num){
+num=arr[i]
+
+}
+
+
+}
+
+para.innerHTML=text+num;
+
+}
+
+
+
