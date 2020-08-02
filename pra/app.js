@@ -432,9 +432,33 @@
 // document.write("<br>");
 // }
 
-var uni="karachi of university";
-for(var i=0;i<uni.length;i++){
+// var uni="karachi of university";
+// for(var i=0;i<uni.length;i++){
 
-document.write("<BR>"+uni[i].split(''))
+// document.write("<BR>"+uni[i].split(''))
 
-}
+// }
+
+// function abc(){
+
+// var val=document.getElementById('val').value;
+// var para=document.getElementById('para');
+// var num="";
+// for(var i=val.length-1;i>=0;i--){
+// num+=val[i];
+
+// }
+// if(val===num){
+
+// para.innerHTML="yes";
+
+// }
+
+// else{
+
+//     para.innerHTML="sorry";
+
+// }
+
+// }
+
