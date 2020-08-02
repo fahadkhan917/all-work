@@ -432,3 +432,9 @@
 // document.write("<br>");
 // }
 
+var uni="karachi of university";
+for(var i=0;i<uni.length;i++){
+
+document.write("<BR>"+uni[i].split(''))
+
+}
