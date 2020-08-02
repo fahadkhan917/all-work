@@ -496,4 +496,11 @@
 // document.write(a);
 
 
-var ar
+// var num=prompt("enter the number");
+// document.write("number is"+num);
+// var round=Math.round(num);
+// document.write("round"+round);
+// var floo=Math.floor(num);
+// document.write("floor"+floo);
+// var ceilvalue=Math.ceil(num);
+// document.write("ceil"+ceilvalue);
