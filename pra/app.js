@@ -521,4 +521,17 @@
 
 // document.write("headd");
 
+
+
 // }
+var list=document.getElementById('lists');
+function abc(){
+
+var val=document.getElementById('val').value;
+var li=document.createElement('li');
+var listtext=document.createTextNode(val);
+li.append(listtext);
+list.append(li);
+}
+
+
