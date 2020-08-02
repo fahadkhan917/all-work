@@ -339,10 +339,29 @@
 // document.write(b);
 
 
-var a="fa!had";
-for(i=0;i<a.length;i++){
-if(a.charCodeAt(i)===33){
+// var a="fa!had";
+// for(i=0;i<a.length;i++){
+// if(a.charCodeAt(i)===33){
 
-document.write("yes is here")
+// document.write("yes is here")
+// }
+// }
+
+
+var user=prompt("enter the user");
+var newstring="";
+for(var i=user.length-1;i>=0;i--){
+
+newstring+=user[i];
+
 }
+if(user===newstring){
+
+    document.write("yes");
+}
+
+else{
+
+document.write("soory");
+
 }
