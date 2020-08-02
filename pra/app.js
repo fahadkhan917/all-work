@@ -509,5 +509,16 @@
 // var absval=Math.abs(user);
 // document.write(absval);
 
-var randvalue=Math.floor(Math.random()*6);
-document.write("the value of the dice is"+randvalue);
+// var randvalue=Math.floor(Math.random()*6);
+// document.write("the value of the dice is"+randvalue);
+
+// var rand=Math.floor(Math.random()*2)+1;
+// if(rand===1){
+
+//     document.write("tails");
+// }
+// else if(rand===2){
+
+// document.write("headd");
+
+// }
