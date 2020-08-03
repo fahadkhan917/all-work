@@ -619,16 +619,33 @@
 // titlecase('the quick brown fox');
 
 
-var a="fahad khan me";
-a=a.split(' ');
-for(var i=0;i<a.length;i++){
+// var a="fahad khan mae";
+// a=a.split(' ');
+// for(var i=0;i<a.length;i++){
 
-a[i]=a[i].charAt(0).toUpperCase()+a[i].slice(1);
-document.write(a[i])
+// a[i]=a[i].charAt(0).toUpperCase()+a[i].slice(1);
+// document.write(a[i]);
 
-}
+// }
 
 
+// function find(str){
+
+// var array1=str.match(/\w[a-z]{0,}/gi);
+// var result=array1[0];
+
+// for(var i=0;i<array1.length;i++){
+
+// if(result.length<array1[i].length){
+// result=array1[i]
+
+// }
+
+// }
+// return result;
+// }
+
+// document.write("find"+find('web developnment tutorail'))
 // function titleCase(str) { 
 //     str = str.toLowerCase().split(' '); 
 //     for (var i = 0; i < str.length; i++) { 
