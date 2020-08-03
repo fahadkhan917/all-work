@@ -532,7 +532,7 @@
 
 
 // var user=prompt("enter the secret number");
-// var rand=Math.floor(Math.random()*2)+1;
+// var rand=Math.floor(Math.random()*10)+1;
 // if(user===rand){
 // alert("congratulations!you are right");
 
@@ -541,6 +541,30 @@
 // alert("try again");
 
 // }
+
+
+// var curr=new Date();
+// document.write(curr);
+
+
+// var month=["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
+// var currentmonth=curr.getMonth();
+// document.write(month[currentmonth]);
+
+
+// var days=["Sun","Mon","Tue","Wed","Thu","Fri","Sat"];
+// var currday=curr.getDay();
+// document.write("today is"+days[currday]);
+
+// if(currday==0 || currday==6){
+// document.write("today is funday");
+
+// }
+
+
+var teach={a:"fahad",b:2,c:"ali"};
+document.write(teach.a)
+
 
 
 // }
