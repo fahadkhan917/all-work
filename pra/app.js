@@ -522,16 +522,36 @@
 // document.write("headd");
 
 
+// var rand=Math.floor(Math.random()*100);
+// document.write(rand);
+
+
+// var user=prompt("enter your weight");
+// var parse=parseInt(user);
+// document.write("the weight of the user is"+parse);
+
+
+// var user=prompt("enter the secret number");
+// var rand=Math.floor(Math.random()*2)+1;
+// if(user===rand){
+// alert("congratulations!you are right");
 
 // }
-var list=document.getElementById('lists');
-function abc(){
+// else{
+// alert("try again");
 
-var val=document.getElementById('val').value;
-var li=document.createElement('li');
-var listtext=document.createTextNode(val);
-li.append(listtext);
-list.append(li);
-}
+// }
+
+
+// }
+// var list=document.getElementById('lists');
+// function abc(){
+
+// var val=document.getElementById('val').value;
+// var li=document.createElement('li');
+// var listtext=document.createTextNode(val);
+// li.append(listtext);
+// list.append(li);
+// }
 
 
