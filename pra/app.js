@@ -591,6 +591,53 @@
 
 // fractional(4);
 
+// function counting(firstNumber,lastNumber){
+
+//     for(i=firstNumber;i<=lastNumber;i++){
+
+//         document.write("<br>"+i);
+//     }
+
+// }
+
+// counting(12,19)
+
+
+
+// function titlecase(str){
+
+//     str=str.toLowerCase().split(' ');
+//    for(var i=0;i<str.length;i++){
+//     str[i]=str[i].charAt(0).toUpperCase()+str[i].slice(1);
+   
+
+//    }
+// document.write(str)
+  
+// }
+
+// titlecase('the quick brown fox');
+
+
+var a="fahad khan me";
+a=a.split(' ');
+for(var i=0;i<a.length;i++){
+
+a[i]=a[i].charAt(0).toUpperCase()+a[i].slice(1);
+document.write(a[i])
+
+}
+
+
+// function titleCase(str) { 
+//     str = str.toLowerCase().split(' '); 
+//     for (var i = 0; i < str.length; i++) { 
+//       str[i] = str[i].charAt(0).toUpperCase() + str[i].slice(1);  
+//     } 
+//     return str.join(' '); 
+//   } 
+//   document.write("<br> The String in Title Case is "+titleCase('the quick brown fox')); 
+
 // }
 // var list=document.getElementById('lists');
 // function abc(){
