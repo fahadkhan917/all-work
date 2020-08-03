@@ -562,10 +562,34 @@
 // }
 
 
-var teach={a:"fahad",b:2,c:"ali"};
-document.write(teach.a)
+// var teach={a:"fahad",b:2,c:"ali"};
+// teach.d="umer";
+// document.write(teach.d)
 
 
+
+// function sqr(a){
+
+// document.write(a*a);
+
+// }
+// sqr(prompt("enter the value"));
+
+// var sum=0;
+// function fractional(num){
+
+// var fact;
+// for(var i=0;i<num;i++){
+// fact=num*i;
+// sum=sum+fact;
+
+
+// }
+// document.write(sum)
+
+// }
+
+// fractional(4);
 
 // }
 // var list=document.getElementById('lists');
