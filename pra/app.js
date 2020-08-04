@@ -707,4 +707,34 @@
 // alert("i am "+age+old);
 
 
+// var birth=1994;
+// document.write(birth);
+// document.write("data type of my declared variable is"+typeof(birth))
+
+
+// var a=3;
+// var b=5;
+// document.write("sum of"+a+"and"+b+"is"+(a+b));
+
+// var a=3;
+// var b=5;
+// document.write("sum of"+a+"and"+b+"is"+(a+b));
+
+// var a=3;
+// var b=5;
+// document.write("sub of"+a+"and"+b+"is"+(a-b));
+
+
+// var a=3;
+// var b=5;
+// document.write("multiplication of"+a+"and"+b+"is"+(a*b));
+
+// var a=3;
+// var b=5;
+// document.write("divide of"+a+"and"+b+"is"+(a/b));
+
+// var a=3;
+// var b=5;
+// document.write("modulus of"+a+"and"+b+"is"+(a%b));
+
 
