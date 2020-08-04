@@ -787,3 +787,9 @@
 // document.write("total marks"+totalmark);
 // document.write("Marks obtained"+totalobt);
 // document.write("percantage"+per);
+
+// var usa=104.80;
+// var riyal=28;
+// var total=(usa*10)+(riyal*25);
+// document.write("total"+total);
+
