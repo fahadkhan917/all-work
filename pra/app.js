@@ -838,3 +838,55 @@
 // a[i]=a[i].charAt(0).toUpperCase()+a[i].slice(1);
 // document.write(a[i]);
 // }
+
+// var a=[15,45,65,78,89];
+// var larg=a[0];
+// for(var i=0;i<a.length;i++){
+
+
+
+// if(a[i]>larg){
+// larg=a[i];
+
+// }
+
+
+
+// }
+// document.write("largest number"+larg);
+
+// var a="fahad";
+// var b=a.match(/a/g);
+// document.write(b.length);
+
+// var a="web and mobile";
+// var result="";
+// var b=a.match(/\w[a-z]{0,}/gi);
+// for(var i=0;i<b.length;i++){
+// if(result.length<b.length){
+// result=b[i];
+// document.write(result)
+// }
+
+
+// }
+
+
+// function find(str){
+
+//     var array1=str.match(/\w[a-z]{0,}/gi);
+//     var result=array1[0];
+    
+//     for(var i=0;i<array1.length;i++){
+    
+//     if(result.length<array1[i].length){
+//     result=array1[i]
+    
+//     }
+    
+//     }
+//     return result;
+//     }
+    
+//     document.write("find"+find('web developnment tutorail'))
+    
