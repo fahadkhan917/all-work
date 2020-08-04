@@ -750,5 +750,16 @@
 // num1=num1/3%1;
 // document.write("The remainder is"+num1);
 
+// var price=600;
+// var tic=5;
+// document.write("total cost to buy"+tic+"Tickets to a movie is"+price*tic);
 
+
+// var num=4;
+// document.write("table of"+num+"<br>");
+// for(var i=1;i<=10;i++){
+
+// document.write(num+"x"+i+"="+num*i+"<br>");
+
+}
 
