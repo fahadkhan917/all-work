@@ -859,17 +859,19 @@
 // var b=a.match(/a/g);
 // document.write(b.length);
 
-// var a="web and mobile";
-// var result="";
-// var b=a.match(/\w[a-z]{0,}/gi);
-// for(var i=0;i<b.length;i++){
-// if(result.length<b.length){
-// result=b[i];
-// document.write(result)
-// }
+var a="web and mobile";
+var result="";
+var b=a.match(/\w[a-z]{0,}/gi);
+
+for(var i=0;i<b.length;i++){
+if(result.length<b[i].length){
+result=b[i];
+
+}
 
 
-// }
+}
+document.write(result)
 
 
 // function find(str){
