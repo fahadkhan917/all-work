@@ -651,6 +651,9 @@
 // var res=str.match(/\w[a-z]{0,}/gi);
 // document.write(res.length);
 
+
+
+
 // function titleCase(str) { 
 //     str = str.toLowerCase().split(' '); 
 //     for (var i = 0; i < str.length; i++) { 
@@ -670,5 +673,20 @@
 // li.append(listtext);
 // list.append(li);
 // }
+
+
+
+
+//chapter 1
+// alert("welcme to happy coding");
+
+// alert("welcome to js land \n happy coding")
+
+
+// var myname="fahad";
+
+
+// var mes="hellow world";
+// alert(mess);
 
 
