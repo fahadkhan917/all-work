@@ -859,19 +859,19 @@
 // var b=a.match(/a/g);
 // document.write(b.length);
 
-var a="web and mobile";
-var result="";
-var b=a.match(/\w[a-z]{0,}/gi);
+var a="fahad khan ho mae";
+var chk=a[0];
+var b=a.split(' ');
 
 for(var i=0;i<b.length;i++){
-if(result.length<b[i].length){
-result=b[i];
+if(chk.length<b[i].length){
+
+    chk=b[i];
+}
+    
 
 }
-
-
-}
-document.write(result)
+document.write(chk)
 
 
 // function find(str){
