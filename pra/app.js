@@ -737,4 +737,18 @@
 // var b=5;
 // document.write("modulus of"+a+"and"+b+"is"+(a%b));
 
+// var num1;
+// document.write("value after varaible declaration is"+num1+"<br>");
+// num1=5;
+// document.write("Initial value"+num1+"<br>");
+// num1++;
+// document.write("increment value"+num1+"<br>");
+// num1=num1+7;
+// document.write("value after add"+num1+"<br>");
+// num1--;
+// document.write("value after decrement is"+num1+"<br>");
+// num1=num1/3%1;
+// document.write("The remainder is"+num1);
+
+
 
