@@ -777,3 +777,13 @@
 // document.write("Shiping charges"+shipingcharges+"<br>");
 // total=(priceofitem1*quaofitem1)+(priceofitem2*quaofiten2)+shipingcharges;
 // document.write("total cost of your order is"+total);
+
+
+// var totalmark=980;
+// var markobt1=420;
+// var markobt2=380;
+// var totalobt=markobt1+markobt2;
+// var per=totalobt/totalmark*100;
+// document.write("total marks"+totalmark);
+// document.write("Marks obtained"+totalobt);
+// document.write("percantage"+per);
