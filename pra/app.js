@@ -800,3 +800,41 @@
 // var setimg=document.getElementById("setimg");
 // setimg.src=getimg.src;
 // }
+
+// var a=10;
+// document.write("the value is"+a+"<br>");
+
+// ++a;
+// document.write("the value of a"+a+"<br>");
+
+// a++;
+// document.write("the value of a"+a+"<br>");
+
+// --a;
+// document.write("the value of a"+a+"<br>");
+
+// a--;
+// document.write("the value of a"+a+"<br>");
+
+// var user=prompt("enter the word");
+// var chk="";
+// for(var i=user.length-1;i>=0;i--){
+// chk+=user[i];
+    
+
+// }
+// if(user===chk){
+// document.write("yes");
+
+// }
+// else{
+// document.write("sorry");
+
+// }
+
+// var a="hello world";
+// a=a.split(' ');
+// for(var i=0;i<a.length;i++){
+// a[i]=a[i].charAt(0).toUpperCase()+a[i].slice(1);
+// document.write(a[i]);
+// }
