@@ -761,5 +761,19 @@
 
 // document.write(num+"x"+i+"="+num*i+"<br>");
 
-}
+// }
 
+
+// var priceofitem1=650;
+// var priceofitem2=100;
+// var quaofitem1=3;
+// var quaofiten2=7;
+// var shipingcharges=100;
+
+// document.write("price of item 1 is"+priceofitem1+"<br>");
+// document.write("Quantity of item 1 is"+quaofitem1+"<br>");
+// document.write("Price of item 2 is"+priceofitem2+"<br>");
+// document.write("Quantity of item 1 is"+quaofiten2+"<br>");
+// document.write("Shiping charges"+shipingcharges+"<br>");
+// total=(priceofitem1*quaofitem1)+(priceofitem2*quaofiten2)+shipingcharges;
+// document.write("total cost of your order is"+total);
