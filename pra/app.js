@@ -793,3 +793,10 @@
 // var total=(usa*10)+(riyal*25);
 // document.write("total"+total);
 
+
+// function abc(){
+
+// var getimg=document.getElementById("getimg")
+// var setimg=document.getElementById("setimg");
+// setimg.src=getimg.src;
+// }
