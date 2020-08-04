@@ -690,3 +690,21 @@
 // alert(mess);
 
 
+// var a="pizza";
+// alert(a+"\n"+a.slice(0,-1)+"\n"+a.slice(0,-2)+"\n"+a.slice(0,-3)+"\n"+a.slice(0,-4))
+
+// var email="fk16181@gmail.com";
+// alert(email);
+
+
+// var a="a smarter way to learn javascript";
+// alert(a);
+
+// var a="yah! i can write a HTML content throught javascript";
+// document.write(a);
+
+// var age=15;
+// alert("i am "+age+old);
+
+
+
