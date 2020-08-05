@@ -859,21 +859,21 @@
 // var b=a.match(/a/g);
 // document.write(b.length);
 
-var a="web developnment world";
-var b=a.split(' ');
-var chk="";
-for(var i=0;i<b.length;i++){
+// var a="web developnment world";
+// var b=a.split(' ');
+// var chk="";
+// for(var i=0;i<b.length;i++){
     
-if(chk.length<b[i].length){
+// if(chk.length<b[i].length){
    
-    chk=b[i];
+//     chk=b[i];
   
 
-}
+// }
 
 
-}
-document.write(chk)
+// }
+// document.write(chk)
 
 // function find(str){
 
