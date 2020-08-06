@@ -894,7 +894,7 @@
 //     document.write("find"+find('web developnment tutorail'))
     
 
-// var a=prompt("enter the name")
+// `var a=prompt("enter the name")
 // for(var i=0;i<a.length;i++){
 
 // if(a.charCodeAt(i)==97){
@@ -902,5 +902,18 @@
 // document.write("yes");
 // break;
 // }
+
+// }
+
+
+// var a="fahad";
+// var b=a.match(/a/gi);
+// document.write(b.length);
+
+// var a=0;
+// while(a<5){
+
+//     document.write("fahad"+"<BR>");
+//     a++;
 
 // }
