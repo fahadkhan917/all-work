@@ -893,3 +893,14 @@
     
 //     document.write("find"+find('web developnment tutorail'))
     
+
+// var a=prompt("enter the name")
+// for(var i=0;i<a.length;i++){
+
+// if(a.charCodeAt(i)==97){
+
+// document.write("yes");
+// break;
+// }
+
+// }
