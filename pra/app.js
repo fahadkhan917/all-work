@@ -954,3 +954,7 @@
 // var userInput=+prompt("Enter the number");
 // var absValue=Math.abs(userInput);
 // document.write("<br>The value after doing the absolute is"+absValue);
+
+
+// var randValue=Math.floor(Math.random() * 6) + 1;
+// document.write("<br>The value of the dice is"+randValue);
