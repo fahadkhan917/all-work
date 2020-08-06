@@ -958,3 +958,15 @@
 
 // var randValue=Math.floor(Math.random() * 6) + 1;
 // document.write("<br>The value of the dice is"+randValue);
+
+// var randomValue=Math.floor(Math.random()*2)+1;
+// if(randomValue===1)
+// {
+//     document.write("<br>"+randomValue+"<br>"+"Random Coin Value :Tails");
+
+// }
+// else if(randomValue===2)
+// {
+//     document.write("<br>"+randomValue+"<br>"+"Random Coin Value :Heads");
+
+// }
