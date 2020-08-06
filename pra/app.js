@@ -970,3 +970,7 @@
 //     document.write("<br>"+randomValue+"<br>"+"Random Coin Value :Heads");
 
 // }
+
+
+// var randValue=Math.floor(Math.random() * 100) + 1;
+// document.write("<br>The random value between 1 and 100 is "+randValue);
