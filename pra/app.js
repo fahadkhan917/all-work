@@ -974,3 +974,17 @@
 
 // var randValue=Math.floor(Math.random() * 100) + 1;
 // document.write("<br>The random value between 1 and 100 is "+randValue);
+
+// var a="fahad khan ho mae";
+// var b=a.split(' ');
+// var chk="";
+// for(var i=0;i<b.length;i++){
+// if(chk.length<b[i].length){
+
+//     chk=b[i]
+
+// }
+
+
+// }
+// document.write(chk);
