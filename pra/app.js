@@ -940,3 +940,13 @@
 // var a=prompt("enter the user");
 // var chk=a.charAt(a.length-1)
 // document.write(chk);
+
+var userInput=+prompt("Enter the number");
+document.write("<br>The number is "+userInput);
+var roundedValue=Math.round(userInput);
+document.write("<br>The rounded  number is "+roundedValue);
+var floorValue=Math.floor(userInput);
+document.write("<br>The floor number is "+floorValue);
+var ceilValue=Math.ceil(userInput);
+document.write("<br>The Ceil of the number is "+ceilValue);
+
