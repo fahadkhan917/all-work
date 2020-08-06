@@ -935,3 +935,8 @@
 // document.write("<br>"+a[i]);
 
 // }
+
+
+// var a=prompt("enter the user");
+// var chk=a.charAt(a.length-1)
+// document.write(chk);
