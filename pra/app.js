@@ -991,3 +991,11 @@
 
 // var a=new Date();
 // document.write(a);
+
+
+function abc(e){
+
+    var val=document.getElementById('val');
+    val.value=e;
+
+}
