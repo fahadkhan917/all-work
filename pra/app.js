@@ -1006,3 +1006,11 @@
 //    val.value=eval(val.value)
 
 // }
+
+// function cle(){
+
+
+//     var val=document.getElementById('val');
+//     val.value=" ";
+
+// }
