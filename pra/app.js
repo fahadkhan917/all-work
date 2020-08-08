@@ -989,5 +989,5 @@
 // }
 // document.write(chk);
 
-var a=new Date();
-document.write(a);
+// var a=new Date();
+// document.write(a);
