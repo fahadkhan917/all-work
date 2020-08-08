@@ -993,9 +993,16 @@
 // document.write(a);
 
 
-function abc(e){
+// function abc(e){
 
-    var val=document.getElementById('val');
-    val.value=e;
+//     var val=document.getElementById('val');
+//     val.value+=e;
 
-}
+// }
+
+// function op(){
+
+//     var val=document.getElementById('val');
+//    val.value=eval(val.value)
+
+// }
