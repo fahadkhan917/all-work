@@ -1019,3 +1019,10 @@
 // var b=a.getMonth();
 // var nameofmonth=month[b];
 // document.write(nameofmonth);
+
+// var day=["sun","mon","tue","wed"];
+// var a=new Date();
+// var b=a.getDay();
+// var nowday=day[b];
+// document.write(nowday)
+
