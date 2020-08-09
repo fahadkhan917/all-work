@@ -1069,6 +1069,11 @@
 // document.write(arr1);
 
 
+// var color=["red","green","bllue"];
+// document.write(color+"<br>");
+// var firstadd=prompt("enter the color to add first");
+// color.unshift(firstadd);
+// document.write(color);
 
 
 
