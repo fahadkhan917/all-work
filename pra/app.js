@@ -1064,6 +1064,9 @@
 
 
 
+// var arr=["this","is","my","cat"];
+// var arr1=arr.join(' ');
+// document.write(arr1);
 
 
 
