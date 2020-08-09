@@ -1042,16 +1042,24 @@
 
 // }
 
-var a=new Date();
-var b=a.getDate();
-if(b<15){
-document.write("first fiftteen days of month");
+// var a=new Date();
+// var b=a.getDate();
+// if(b<15){
+// document.write("first fiftteen days of month");
 
-}
-else{
+// }
+// else{
 
-    document.write("Last fiftteen days of month");
+//     document.write("Last fiftteen days of month");
 
-}
+// }
+
+
+
+
+
+
+
+
 
 
