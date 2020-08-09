@@ -1024,5 +1024,21 @@
 // var a=new Date();
 // var b=a.getDay();
 // var nowday=day[b];
-// document.write(nowday)
+// document.write(nowday);
+
+// var day=["sun","mon","tue","wed","thu","fri","sat"];
+// var a=new Date();
+// var b=a.getDay();
+// var nowday=day[b];
+// if(nowday==='sun' || nowday==='sat'){
+
+// document.write("today is funday day");
+
+// }
+
+// else{
+
+//     document.write("normal day");
+
+// }
 
