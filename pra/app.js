@@ -1014,3 +1014,8 @@
 //     val.value=" ";
 
 // }
+// var month=["jan","feb","march","april","may","june","july","aug","sep"];
+// var a=new Date();
+// var b=a.getMonth();
+// var nameofmonth=month[b];
+// document.write(nameofmonth);
