@@ -1069,8 +1069,8 @@
 // document.write(arr1);
 
 
-var color=["blue","green"];
-document.write(color+"<br>")
+// var color=["blue","green"];
+// document.write(color+"<br>")
 //  firstadd=prompt("enter the color to add first"+"<br>");
 // color.unshift(firstadd);
 // document.write(color+"<BR>");
@@ -1089,6 +1089,19 @@ document.write(color+"<br>")
 // var ip=prompt("enter the color");
 // color.splice(index,0,ip);
 // document.write(color);
+// var b=color.slice(1,2);
+// document.write(b);
+// 
+
+
+// var student=[120,450,780,880,150];
+// var b=student.sort();
+// document.write(b);
+
+// var arr=["karachi","islamabad","lahore","murrue","peshawar"];
+// var b=arr.slice(1,3);
+// document.write(b);
+
 
 
 
