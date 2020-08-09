@@ -1055,6 +1055,19 @@
 // }
 
 
+// var ta=document.getElementsByTagName('p');
+// console.log(ta[0]);
+
+// var e=document.getElementById('a');
+// var pha=e.getElementsByTagName('p');
+// console.log(pha)
+
+
+
+
+
+
+
 
 
 
