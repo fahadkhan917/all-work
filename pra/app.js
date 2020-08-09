@@ -1069,11 +1069,27 @@
 // document.write(arr1);
 
 
-// var color=["red","green","bllue"];
-// document.write(color+"<br>");
-// var firstadd=prompt("enter the color to add first");
+var color=["blue","green"];
+document.write(color+"<br>")
+//  firstadd=prompt("enter the color to add first"+"<br>");
 // color.unshift(firstadd);
+// document.write(color+"<BR>");
+// var lastadd=prompt("enter the color to add in last"+"<br>");
+// color.push(lastadd);
+// document.write(color+"<BR>");
+// var addfi=prompt("enter the first")
+// var addse=prompt("enter the sec");
+// color.unshift(addfi,addse);
+// document.write(color+"<br>");
+// color.shift();
+// document.write(color+"<br>");
+// color.pop();
+// document.write(color+"<br>");
+// var index=prompt("enter the index where we add");
+// var ip=prompt("enter the color");
+// color.splice(index,0,ip);
 // document.write(color);
+
 
 
 
