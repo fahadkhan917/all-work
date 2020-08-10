@@ -1130,14 +1130,36 @@
 // document.write(a+"<BR>");
 
 
-var phone=["apple","samsung","motorala","nokia","sony","haier"];
-document.write("<select><option>"+phone[0]+"</option></select>")
-document.write("<h1>"+"hello"+"</h1>")
+// var phone=["apple","samsung","motorala","nokia","sony","haier"];
+// document.write("<select><option>"+phone[0]+"</option></select>")
+// document.write("<h1>"+"hello"+"</h1>")
 
 
 
+// for(var i=0;i<=10;i++){
 
+// document.write(i+"<br>");
 
+// }
+
+// var nu=prompt("enter the table number");
+// var le=prompt("enter the lenght");
+// for(var i=1;i<=le;i++){
+
+// document.write(nu+"*"+i+"="+nu*i+"<br>");
+
+// }
+
+// var arr=[12,45,65,78];
+// var sum=0;
+// for(var i=0;i<arr.length;i++){
+
+//   sum=arr[i];  
+
+// sum+=sum+arr[i]
+// }
+
+// document.write(sum);
 
 
 
