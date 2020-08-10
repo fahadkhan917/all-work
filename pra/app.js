@@ -1236,5 +1236,12 @@
 // var b=a.indexOf('n')
 // document.write(b);
 
+// var a="hello world";
+// var b=a.lastIndexOf('l');
+// document.write(b);
 
+// var first=prompt("enter the first")
+// var sec=prompt("enter the second");
+// var fullname=first+sec;
+// document.write(fullname);
 
