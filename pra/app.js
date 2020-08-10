@@ -1130,6 +1130,13 @@
 // document.write(a+"<BR>");
 
 
+var phone=["apple","samsung","motorala","nokia","sony","haier"];
+document.write("<select><option>"+phone[0]+"</option></select>")
+document.write("<h1>"+"hello"+"</h1>")
+
+
+
+
 
 
 
