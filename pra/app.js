@@ -1161,7 +1161,20 @@
 
 // document.write(sum);
 
+// var arr=[12,45,65,78,105];
+// var chk=arr[0];
+// for(var i=0;i<arr.length;i++){
 
+
+
+// if(chk>arr[i]){
+
+//     chk=arr[i]
+
+// }
+
+// }
+// document.write(chk);
 
 
 
