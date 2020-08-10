@@ -1245,3 +1245,16 @@
 // var fullname=first+sec;
 // document.write(fullname);
 
+
+// var first=prompt("enter the first")
+// var sec=prompt("enter the second");
+// var fullname=first.concat(sec);
+// document.write(fullname);
+
+// var a="hyderabad";
+// var b=a.replace('hyder','lslam');
+// document.write(b);
+
+// var message = "Ali and Sami are best friends. They play cricket and football together.";
+// var b=message.replace(/and/g,'&');
+// document.write(b);
