@@ -1102,6 +1102,33 @@
 // var b=arr.slice(1,3);
 // document.write(b);
 
+// var a=["keyboarad","mouse","printer","monitor"];
+// document.write(a+"<br>")
+// a.shift();
+// document.write(a+"<BR>");
+// a.shift();
+// document.write(a+"<BR>");
+// a.shift();
+// document.write(a+"<BR>");
+// a.shift();
+// document.write(a+"<BR>");
+// a.shift();
+// document.write(a+"<BR>");
+
+
+// var a=["keyboarad","mouse","printer","monitor"];
+// document.write(a+"<br>")
+//  a.pop();
+// document.write(a+"<BR>");
+// a.pop();
+// document.write(a+"<BR>");
+// a.pop();
+// document.write(a+"<BR>");
+// a.pop();
+// document.write(a+"<BR>");
+// a.pop();
+// document.write(a+"<BR>");
+
 
 
 
