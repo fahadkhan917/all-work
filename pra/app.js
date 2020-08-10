@@ -1186,9 +1186,46 @@
 
 // }
 
+// for(var i=0;i<=15;i++){
+
+// document.write(","+i);
+
+// }
+
+// for(var i=10;i>0;i--){
+
+// document.write(i);
+
+// }
 
 
+// for(var i=0;i<=20;i=i+2){
 
+//     document.write(i);
+
+// }
+
+// for(var i=1;i<19;i++){
+// if(i=2%1){
+
+//     document.write(i);
+
+// }
+
+// }
+
+// var user=prompt("enter plz");
+// var a=["cake","apple pie","cookie","chips","patties"];
+
+// for(var i=0;i<a.length;i++){
+// if(user==[a[i]]){
+
+// document.write(a.indexOf(user)+"yes");
+
+// }
+
+
+// }
 
 
 
