@@ -1177,6 +1177,17 @@
 // document.write(chk);
 
 
+// var friut=["apple","banana","mango","orange",'strawberry'];
+// for(var i=0;i<friut.length;i++){
+
+// document.write(friut[i]+"<br>");
+
+// document.write(friut.indexOf(friut[i])+"<br>"+friut[i]);
+
+// }
+
+
+
 
 
 
