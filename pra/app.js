@@ -1228,5 +1228,13 @@
 // }
 
 
+// var a="fahad khan web develop";
+// var b=a.length;
+// document.write(b);
+
+// var a="pakistani";
+// var b=a.indexOf('n')
+// document.write(b);
+
 
 
