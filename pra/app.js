@@ -1317,3 +1317,7 @@
 // document.write(uni[i]+"<br>");
 
 // }
+
+var a=-4;
+var b=Math.abs(a);
+document.write(b);
