@@ -1336,3 +1336,15 @@
 //     document.write("heads");
 
 // }
+
+// var a=Math.floor(Math.random()*100+1);
+// document.write("random number between 1 to 100 :"+a);
+
+// var secret=5;
+// var a=prompt("enter the user");
+// a=Math.floor(Math.random()*10+1);
+// if(a===secret){
+
+// document.write("congratulate the user");
+
+// }
