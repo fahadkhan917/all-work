@@ -1302,3 +1302,18 @@
 // var a="fahad";
 // var b=a.charCodeAt();
 // document.write(b);
+
+
+// var a=prompt("enter the name");
+// if(a.length>6){
+
+//     document.write("yes your lenght is gretar than 6");
+
+// }
+
+// var uni="karachi of university";
+// for(var i=0;i<uni.length;i++){
+
+// document.write(uni[i]+"<br>");
+
+// }
