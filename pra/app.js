@@ -1267,3 +1267,38 @@
 // var string="the quick brown fox jumps over the lazy dog";
 // count=string.match(/the/g).length;
 // document.write("<br> Count of occurence of the in the string is"+count);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// var a="the quick brown fox jumps over the lazy dog";
+// var b=a.match(/the/g).length;
+// document.write("the lenght of"+b);
+
+
+// var a=prompt("enter the number");
+// for(var i=0;i<a.length;i++){
+// if(a.charCodeAt(i)===97){
+
+//     document.write("yes");
+//     break;
+
+// }
+
+
+// }
+// var a="fahad";
+// var b=a.charCodeAt();
+// document.write(b);
