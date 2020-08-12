@@ -1264,6 +1264,6 @@
 // document.write(b);
 
 
-var string="the quick brown fox jumps over the lazy dog";
-count=string.match(/the/g).length;
-document.write("<br> Count of occurence of the in the string is"+count);
+// var string="the quick brown fox jumps over the lazy dog";
+// count=string.match(/the/g).length;
+// document.write("<br> Count of occurence of the in the string is"+count);
