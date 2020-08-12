@@ -1318,6 +1318,21 @@
 
 // }
 
-var a=-4;
-var b=Math.abs(a);
-document.write(b);
+// var a=-4;
+// var b=Math.abs(a);
+// document.write(b);
+
+
+// var a=Math.floor(Math.random()*10+1);
+// document.write(a);
+
+// var a=Math.floor(Math.random()*2+1);
+// if(a==1){
+// document.write("Tails");
+
+// }
+// else{
+
+//     document.write("heads");
+
+// }
