@@ -1388,4 +1388,12 @@
 // document.write(mintues);
 
 
+var today=new Date();
+var doomsday=new Date("june 30, 2035");
+var mstoday=today.getTime();
+var msdoosday=doomsday.getTime();
+var msdiff=msdoosday-mstoday;
+var ddiff=msdiff/(1000*60*60*24);
+document.write(ddiff);
+
 
