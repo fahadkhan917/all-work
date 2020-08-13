@@ -1357,3 +1357,13 @@
 // document.write(b[i]);
 
 // }
+
+// var a=new Date();
+// document.write(a);
+
+// var months=["jan","feb","marach","april","may","june","july","august","sep","dec"];
+// var a=new Date();
+// var getmon=a.getMonth();
+// document.write(months[getmon]);
+
+
