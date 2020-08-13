@@ -1367,3 +1367,17 @@
 // document.write(months[getmon]);
 
 
+// var a=new Date();
+// var getdayss=a.getDay();
+// if(getdayss===0 || getdayss===6 ){
+
+// document.write("its a funday days");
+
+// }
+// else{
+
+//     document.write("it a noraml days");
+
+// }
+
+
