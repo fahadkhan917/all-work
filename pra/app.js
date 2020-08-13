@@ -1381,3 +1381,11 @@
 // }
 
 
+// var a=new Date();
+// var b=a.getTime();
+// document.write(b+"<br>");
+// var mintues=a.getTime()/(1000*60);
+// document.write(mintues);
+
+
+
