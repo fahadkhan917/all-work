@@ -1388,12 +1388,20 @@
 // document.write(mintues);
 
 
-var today=new Date();
-var doomsday=new Date("june 30, 2035");
-var mstoday=today.getTime();
-var msdoosday=doomsday.getTime();
-var msdiff=msdoosday-mstoday;
-var ddiff=msdiff/(1000*60*60*24);
-document.write(ddiff);
+// var today=new Date();
+// var doomsday=new Date("june 30, 2035");
+// var mstoday=today.getTime();
+// var msdoosday=doomsday.getTime();
+// var msdiff=msdoosday-mstoday;
+// var ddiff=msdiff/(1000*60*60*24);
+// document.write(ddiff);
+
+// function abc(){
+
+// var p1=document.getElementById('p1');
+// var p2=document.getElementById('p2');
+// p2.innerHTML=p1.innerHTML;
+
+// }
 
 
