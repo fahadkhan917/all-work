@@ -1348,3 +1348,12 @@
 // document.write("congratulate the user");
 
 // }
+
+// var a="fahad khan ho mae";
+// var b=a.split(' ');
+// for(var i=0;i<a.length;i++){
+
+// b[i]=b[i].charAt(0).toUpperCase()+b[i].slice(1).toLowerCase();
+// document.write(b[i]);
+
+// }
