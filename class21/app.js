@@ -55,3 +55,23 @@
 
 // var student1=new Student("fahad",456);
 // console.log(student1.getName())
+
+
+// var student={
+
+// name:"ali",
+// roll:123,
+// school:"abcscholl"
+
+// }
+// // console.log("roll" in student);
+
+// for(var prop in  student){
+
+// console.log(prop,student[prop]);
+
+// }
+
+// console.log(student.hasOwnProperty("roll"));
+
+
