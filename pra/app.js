@@ -1419,3 +1419,38 @@
 // document.write(a.name);
 // document.write(a.age);
 // document.write(a.school);
+
+
+// var a={
+
+//         name:"fahad",
+//         age:22,
+//         school:"abc",
+//         calbalance:function(names){
+//         return names;
+
+//         },
+
+
+//         chk:function(){
+//         var uff="ali"
+//        document.write(calbalance());
+//        document.write(uff);
+//         }
+    
+    
+    
+// }
+
+// function Plan(name,price,space,trasfer,pages){
+// this.name=name;
+// this.price=price;
+// this.space=space;
+// this.trasfer=trasfer;
+// this.pages=pages;
+
+
+// }
+
+// var plan2=new Plan('fahad',450,100,78,5);
+// console.log(plan2);
