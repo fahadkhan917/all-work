@@ -89,3 +89,21 @@
 // firebase.database().ref('student').set(student)
 // }
 
+
+
+function saveData(){
+
+    var name=document.getElementById('name');
+    var roll=document.getElementById('roll');
+    
+    var student={
+    
+        name:name.value,
+        roll:roll.value
+    
+    
+    }
+    firebase.database().ref('student').set(student)
+    }
+    
+
