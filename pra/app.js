@@ -1454,3 +1454,14 @@
 
 // var plan2=new Plan('fahad',450,100,78,5);
 // console.log(plan2);
+
+
+// var a={
+
+//         name:"fahad",
+//         age:22,
+//         school:"abc",
+
+// }
+
+// console.log("name" in a);
