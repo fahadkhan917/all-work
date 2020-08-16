@@ -91,19 +91,19 @@
 
 
 
-function saveData(){
+// function saveData(){
 
-    var name=document.getElementById('name');
-    var roll=document.getElementById('roll');
+//     var name=document.getElementById('name');
+//     var roll=document.getElementById('roll');
     
-    var student={
+//     var student={
     
-        name:name.value,
-        roll:roll.value
+//         name:name.value,
+//         roll:roll.value
     
     
-    }
-    firebase.database().ref('student').set(student)
-    }
+//     }
+//     firebase.database().ref('student').set(student)
+//     }
     
 

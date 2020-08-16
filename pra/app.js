@@ -1405,3 +1405,17 @@
 // }
 
 
+
+// var a={
+
+//     name:"fahad",
+//     age:22,
+//     school:"abc"
+
+
+
+// }
+
+// document.write(a.name);
+// document.write(a.age);
+// document.write(a.school);
