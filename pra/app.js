@@ -1479,11 +1479,28 @@
 // }
 
 
+// function abc(){
+
+// var get=document.getElementById('get').value;
+// var set=document.getElementById('set');
+// set.innerHTML=get;
+
+
+// }
+
+// function abc(){
+// var para='Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi deleniti, amet quod exercitationem assumenda distinctio culpa accusamus suscipit voluptatum in iure incidunt reprehenderit sequi ad, dolorem dignissimos quas! Recusandae, necessitatibus?';
+// var chk=document.getElementById('chk');
+// chk.innerHTML=para;
+
+
+
+
+// }
+
 function abc(){
 
-var get=document.getElementById('get').value;
-var set=document.getElementById('set');
-set.innerHTML=get;
-
+var img=document.getElementById('img');
+img.src='a1.jpg';
 
 }
