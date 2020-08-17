@@ -1498,9 +1498,12 @@
 
 // }
 
-function abc(){
+// function abc(){
 
-var img=document.getElementById('img');
-img.src='a1.jpg';
+// var img=document.getElementById('img');
+// img.src='a1.jpg';
 
-}
+// }
+
+// var para=document.getElementById('para');
+// para.className='cls';
