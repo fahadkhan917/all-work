@@ -1507,3 +1507,17 @@
 
 // var para=document.getElementById('para');
 // para.className='cls';
+
+
+var num=prompt("enter the number");
+var sum=0;
+var fac;
+for(var i=0;i<num;i++){
+
+fac=num*i;
+sum=sum+fac;
+
+
+}
+
+document.write(sum);
