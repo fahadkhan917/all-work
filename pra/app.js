@@ -1540,11 +1540,14 @@
 // document.write(chk);
 
 
-var word="fahad khan mae";
-var b=word.split(' ');
-for(var i=0;i<b.length;i++){
+// var word="fahad khan mae";
+// var b=word.split(' ');
+// for(var i=0;i<b.length;i++){
 
-b[i]=b[i].charAt(0).toUpperCase()+b[i].slice(1).toLowerCase();
-document.write(b[i]);
-}
+// b[i]=b[i].charAt(0).toUpperCase()+b[i].slice(1).toLowerCase();
+// document.write(b[i]);
+// }
+
+
+
 
