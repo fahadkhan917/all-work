@@ -1509,15 +1509,32 @@
 // para.className='cls';
 
 
-var num=prompt("enter the number");
-var sum=0;
-var fac;
-for(var i=0;i<num;i++){
+// var num=prompt("enter the number");
+// var sum=0;
+// var fac;
+// for(var i=0;i<num;i++){
 
-fac=num*i;
-sum=sum+fac;
+// fac=num*i;
+// sum=sum+fac;
+
+
+// }
+
+// document.write(sum);
+
+
+var word="fahad humamama khan ho mae";
+var b=word.split(' ');
+var chk=b[0];
+for(var i=0;i<b.length;i++){
+
+
+if(chk.length<b[i].length){
+    chk=b[i]
+
+   
+}
 
 
 }
-
-document.write(sum);
+document.write(chk);
