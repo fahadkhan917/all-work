@@ -10,4 +10,7 @@ function press(){
 
 // window.location.reload(true);//server reloading
 // window.location.reload(false); //cache reloading
+
+  
+
 }
