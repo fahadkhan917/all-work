@@ -10,7 +10,8 @@ function press(){
 
 // window.location.reload(true);//server reloading
 // window.location.reload(false); //cache reloading
-
-  
-
+//   var content='<h1>fahad</h1>'
+//   window.open().document.write(content)
+var content='<h1>fahad</h1>'
+window.open('https://www.google.com/','win1','width=200,height=100')
 }
