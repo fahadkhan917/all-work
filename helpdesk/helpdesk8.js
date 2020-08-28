@@ -10,3 +10,8 @@ document.write("hello");
 
 
 }
+for(var key in obj){
+
+document.write(obj[key])
+
+}
