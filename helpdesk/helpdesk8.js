@@ -43,8 +43,17 @@
 
 // }
 
-window.onkeypress=function(e){
+// window.onkeypress=function(e){
+// if(e.keyCode===97){
 
-console.log(e);
+// document.write("yes you are press small a");
 
-}
+// }
+
+
+// }
+
+// window.location.href='https://www.google.com/';
+
+
+window.open('https://www.google.com/')
