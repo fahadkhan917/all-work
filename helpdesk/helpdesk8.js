@@ -37,5 +37,14 @@
 
 // }
 
+// window.onkeypress=function(e){
 
+// console.log(e)
 
+// }
+
+window.onkeypress=function(e){
+
+console.log(e);
+
+}
