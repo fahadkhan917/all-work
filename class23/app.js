@@ -78,6 +78,36 @@
 // console.log(name);
 
 // async or sync
-console.log("number1"); 
-console.log("number2");
-console.log("number3");
+// console.log("number1"); 
+// console.log("number2");
+// console.log("number3");
+
+
+//promise
+
+// var pro=new Promise(function(resolve,reject){
+// var zinger="";
+// if(zinger==="avaible"){
+
+// resolve("han fahad khelara hai zzinger");
+
+// }
+// else{
+
+// reject("nahi hai");
+
+// }
+
+
+// })
+
+// pro.then(function(data){
+
+// console.log(data)
+
+// })
+// .catch(function(error){
+
+// console.log("error"+error)
+
+// })
