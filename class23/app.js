@@ -72,3 +72,12 @@
 // "30 se chota hai"
 
 // console.log(check)
+
+// var bool=true;
+// var name=bool && "fahad";
+// console.log(name);
+
+// async or sync
+console.log("number1");
+console.log("number2");
+console.log("number3");
