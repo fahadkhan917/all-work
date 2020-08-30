@@ -34,3 +34,41 @@
 // var student=["fahad","ali","umer"];
 // var student1=[...student,"asad","umair"];
 // console.log(student1);
+
+// var student={name:"fahad"}
+// var student1={...student,school:"abc"}
+// console.log(student1);
+
+//object destructuring 
+
+// var obj={
+// name:"fahad",
+// school:"salyani",
+// rollno:123
+
+
+// }
+// let{name,school,roll}=obj;
+
+// console.log(name);
+// console.log(school);
+// console.log(rollno);
+
+
+//ternary operators
+
+// var age=20;
+// var check=age>30?
+// "30 se bara hai"
+// :
+// "30 se chota hai"
+
+// console.log(check)
+
+// var age=20;
+// var check=age>30 && age<50?
+// "30 se bara hai"
+// :
+// "30 se chota hai"
+
+// console.log(check)
