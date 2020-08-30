@@ -10,10 +10,20 @@
 // console.log(name);
 
 
-if(true){
+// if(true){
 
-let fullname="fahad";
+// let fullname="fahad";
 
-}
+// }
 
-console.log(fullname);
+// console.log(fullname);
+
+//  const a="fahad";
+//  document.write(a);
+
+//template literals
+
+let firstname="fahad"
+let lastname="khan";
+
+console.log(`${}`)
