@@ -78,6 +78,6 @@
 // console.log(name);
 
 // async or sync
-console.log("number1");
+console.log("number1"); 
 console.log("number2");
 console.log("number3");
