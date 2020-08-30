@@ -23,7 +23,14 @@
 
 //template literals
 
-let firstname="fahad"
-let lastname="khan";
+// let firstname="fahad"
+// let lastname="khan";
 
-console.log(`${}`)
+// console.log(`My name is ${firstname} ${lastname}`)
+
+/// spread operators
+
+
+// var student=["fahad","ali","umer"];
+// var student1=[...student,"asad","umair"];
+// console.log(student1);
