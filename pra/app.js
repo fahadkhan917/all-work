@@ -1571,3 +1571,26 @@
 // setTimeout(() => {
 //     document.write("fahad")
 // }, 1000);
+
+// var count=5;
+
+// function abc(){
+
+// count++;
+// document.write(count);
+
+// }
+
+// setInterval(() => {
+//    abc()
+// }, 1000);
+
+// function abc(){
+// var img=document.getElementById("img");
+// img.src="a1.jpg";
+
+// }
+//  setInterval(() => {
+//        abc()
+//     }, 1000);
+
