@@ -1594,3 +1594,17 @@
 //        abc()
 //     }, 1000);
 
+let count=5;
+var interval;
+function time(){
+   count++;
+    document.write(count)
+
+}
+interval=setInterval(() => {
+    time()
+}, 1000);
+
+setTimeout(() => {
+   {clearInterval(interval)} 
+}, 10000);
