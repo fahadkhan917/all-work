@@ -1644,3 +1644,11 @@
 // var a=new Date();
 // var b=a.getDate();
 // document.write(day[b]);
+
+// var a="fahad khan";
+// var b=a.split(' ');
+// document.write(b);
+
+// var a="fahad khan";
+// var b=a.replace('fahad','ali');
+// document.write(b);
