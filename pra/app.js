@@ -1625,3 +1625,22 @@
 // setTimeout(() => {
 //    clearInterval(interval) 
 // }, 10000);
+
+
+// var a=[12,45,78,98];
+// var chk=a[0];
+// for(var i=0;i<a.length;i++){
+// if(a[i]<chk){
+
+// chk=a[i];
+// }
+
+
+// }
+// document.write(chk)
+
+
+// var day=["mon","tue","wed","thu","fri","sat","sun"];
+// var a=new Date();
+// var b=a.getDate();
+// document.write(day[b]);
