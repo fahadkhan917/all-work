@@ -1551,14 +1551,23 @@
 
 
 
-var word="fahad humamama khan ho mae";
-var b=word.split(' ');
-var chk=b[0];
-for(var i=0;i<b.length;i++){
+// var word="fahad humamama khan ho mae";
+// var b=word.split(' ');
+// var chk=b[0];
+// for(var i=0;i<b.length;i++){
 
 
-if(chk.length<b[i].length){
-    chk=b[i];
+// if(chk.length<b[i].length){
+//     chk=b[i];
 
 
-}
+// }
+
+
+// setInterval(() => {
+//     document.write("fahad");
+// }, 1000);
+
+// setTimeout(() => {
+//     document.write("fahad")
+// }, 1000);
