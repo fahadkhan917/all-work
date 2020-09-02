@@ -1594,17 +1594,34 @@
 //        abc()
 //     }, 1000);
 
-let count=5;
-var interval;
-function time(){
-   count++;
-    document.write(count)
+// let count=1;
+// var interval;
+// function time(){
+//    count++;
+//     document.write(count)
 
-}
-interval=setInterval(() => {
-    time()
-}, 1000);
+// }
+// interval=setInterval(() => {
+//     time()
+// }, 1000);
 
-setTimeout(() => {
-   {clearInterval(interval)} 
-}, 10000);
+// setTimeout(() => {
+//    {clearInterval(interval)} 
+// }, 10000);
+
+// var interval;
+// var count=0;
+// function time(){
+
+// count++;
+// document.write(count);
+
+// }
+
+// interval=setInterval(() => {
+//    time() 
+// }, 1000);
+
+// setTimeout(() => {
+//    clearInterval(interval) 
+// }, 10000);
