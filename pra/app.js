@@ -1846,3 +1846,13 @@
 // document.write(a[key])
 
 // }
+
+// let a=[45,78,98];
+// for(var i=0;i<a.length;i++){
+
+// document.write(a[i]);
+
+// }
+// document.write(b);
+
+
