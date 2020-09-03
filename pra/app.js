@@ -1691,17 +1691,26 @@
 // }, 10000);
 
 
-var a=prompt("enter the user");
-var chk="";
-for(var i=a.length-1;i>=0;i--){
-chk+=a[i];
+// var a=prompt("enter the user");
+// var chk="";
+// for(var i=a.length-1;i>=0;i--){
+// chk+=a[i];
 
 
-}
+// }
 
-if(chk===a){
+// if(chk===a){
 
-    document.write("it is");
+//     document.write("it is");
     
     
-    }
+//     }
+
+
+// var a="fahad khan ho mae";
+// var b=a.split(' ');
+// for(var i=0;i<b.length;i++){
+
+// b[i]=b[i].charAt(0).toUpperCase()+b[i].slice(1).toLowerCase();
+// document.write(b[i])
+// }
