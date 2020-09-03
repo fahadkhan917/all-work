@@ -1834,4 +1834,15 @@
 
 
 
+// var a={
 
+// name:"fahad",
+// rollno:123
+
+// }
+
+// for(var key in a){
+
+// document.write(a[key])
+
+// }
