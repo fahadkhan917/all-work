@@ -1778,3 +1778,38 @@
 
 
 
+// var name="fahad";
+// function abc(){
+
+// document.write(name)
+
+// }
+
+// abc();
+
+// function abc(name,age,lstna){
+
+// document.write(name+age+lstna)
+
+// }
+
+
+// abc("fahad",45,"ali")
+
+function abc(){
+
+var a=5;
+var b=5;
+var c=a+b;
+return c;
+
+}
+function xyz(){
+
+var d=5;
+var e=d+abc();
+document.write(e)
+}
+
+
+xyz();
