@@ -1730,3 +1730,47 @@
 // para.innerHTML=val.value;
 
 // }
+
+var lis=document.getElementById('lis');
+function abc(){
+
+var val=document.getElementById('val');
+var li=document.createElement('li');
+var textli=document.createTextNode(val.value);
+li.append(textli);
+lis.append(li);
+
+//create edit
+var editbtn=document.createElement('button');
+var edttxt=document.createTextNode('edit');
+editbtn.append(edttxt);
+lis.append(editbtn);
+editbtn.setAttribute('onclick','ed(this)');
+
+
+//create deletebtn
+var delbtn=document.createElement('button');
+var deltxt=document.createTextNode('Delete');
+delbtn.append(deltxt);
+delbtn.setAttribute('onclick',"del()");
+lis.append(delbtn);
+
+
+
+
+
+}
+
+function ed(e){
+
+    console.log(e);   
+   
+   
+   }
+
+function del(){
+
+ alert("fahad");   
+
+
+}
