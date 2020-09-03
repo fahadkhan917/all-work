@@ -1855,4 +1855,7 @@
 // }
 // document.write(b);
 
-
+//template literals
+// let firstname="fahad";
+// let lastname="khan";
+// document.write(`my name is ${firstname} ${lastname}`);
