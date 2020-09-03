@@ -1859,3 +1859,8 @@
 // let firstname="fahad";
 // let lastname="khan";
 // document.write(`my name is ${firstname} ${lastname}`);
+
+// template literals
+// var first="ali";
+// var last="khan";
+// document.write(`${first} ${last}`);
