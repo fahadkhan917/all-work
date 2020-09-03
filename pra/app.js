@@ -1731,47 +1731,50 @@
 
 // }
 
-var lis=document.getElementById('lis');
-function abc(){
+// var lis=document.getElementById('lis');
+// function abc(){
 
-var val=document.getElementById('val');
-var li=document.createElement('li');
-var textli=document.createTextNode(val.value);
-li.append(textli);
-lis.append(li);
+// var val=document.getElementById('val');
+// var li=document.createElement('li');
+// var textli=document.createTextNode(val.value);
+// li.append(textli);
+// lis.append(li);
 
-//create edit
-var editbtn=document.createElement('button');
-var edttxt=document.createTextNode('edit');
-editbtn.append(edttxt);
-li.append(editbtn);
-editbtn.setAttribute('onclick','ed(this)');
-
-
-//create deletebtn
-var delbtn=document.createElement('button');
-var deltxt=document.createTextNode('Delete');
-delbtn.append(deltxt);
-delbtn.setAttribute('onclick',"del(this)");
-li.append(delbtn);
+// //create edit
+// var editbtn=document.createElement('button');
+// var edttxt=document.createTextNode('edit');
+// editbtn.append(edttxt);
+// li.append(editbtn);
+// editbtn.setAttribute('onclick','ed(this)');
 
 
+// //create deletebtn
+// var delbtn=document.createElement('button');
+// var deltxt=document.createTextNode('Delete');
+// delbtn.append(deltxt);
+// delbtn.setAttribute('onclick',"del(this)");
+// li.append(delbtn);
 
 
 
-}
 
-function ed(e){
 
-    
+// }
+
+// function ed(e){
+
+
 
    
    
-   }
+//    }
 
-function del(e){
+// function del(e){
 
- e.parentNode.remove();
+//  e.parentNode.remove();
 
 
-}
+// }
+
+
+
