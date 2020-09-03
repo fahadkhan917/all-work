@@ -1714,3 +1714,11 @@
 // b[i]=b[i].charAt(0).toUpperCase()+b[i].slice(1).toLowerCase();
 // document.write(b[i])
 // }
+
+
+// function abc(){
+
+// var para=document.getElementById("para");
+// para.className='cls';
+
+// }
