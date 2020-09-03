@@ -1722,3 +1722,11 @@
 // para.className='cls';
 
 // }
+
+// function abc(){
+
+// var val=document.getElementById('val');
+// var para=document.getElementById('para');
+// para.innerHTML=val.value;
+
+// }
