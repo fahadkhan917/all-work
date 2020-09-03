@@ -1796,20 +1796,42 @@
 
 // abc("fahad",45,"ali")
 
-function abc(){
+// function abc(){
 
-var a=5;
-var b=5;
-var c=a+b;
-return c;
+// var a=5;
+// var b=5;
+// var c=a+b;
+// return c;
 
-}
-function xyz(){
+// }
+// function xyz(){
 
-var d=5;
-var e=d+abc();
-document.write(e)
-}
+// var d=5;
+// var e=d+abc();
+// document.write(e)
+// }
 
 
-xyz();
+// xyz();
+
+// function abc(){
+//     var name="fahad";
+//     var lsna="ali";
+//     var c=name+lsna;
+//     return c;
+
+// }
+// function xyz(){
+// var d="asad";
+// var e=d+abc();
+// document.write(e);
+
+
+// }
+
+
+// xyz();
+
+
+
+
