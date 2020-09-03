@@ -1744,7 +1744,7 @@ lis.append(li);
 var editbtn=document.createElement('button');
 var edttxt=document.createTextNode('edit');
 editbtn.append(edttxt);
-lis.append(editbtn);
+li.append(editbtn);
 editbtn.setAttribute('onclick','ed(this)');
 
 
@@ -1752,8 +1752,8 @@ editbtn.setAttribute('onclick','ed(this)');
 var delbtn=document.createElement('button');
 var deltxt=document.createTextNode('Delete');
 delbtn.append(deltxt);
-delbtn.setAttribute('onclick',"del()");
-lis.append(delbtn);
+delbtn.setAttribute('onclick',"del(this)");
+li.append(delbtn);
 
 
 
@@ -1768,9 +1768,9 @@ function ed(e){
    
    }
 
-function del(){
+function del(e){
 
- alert("fahad");   
+ console.log(e.parentNode)
 
 
 }
