@@ -1763,14 +1763,15 @@ li.append(delbtn);
 
 function ed(e){
 
-    console.log(e);   
+    
+
    
    
    }
 
 function del(e){
 
- console.log(e.parentNode)
+ e.parentNode.remove();
 
 
 }
