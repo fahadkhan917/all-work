@@ -1652,3 +1652,56 @@
 // var a="fahad khan";
 // var b=a.replace('fahad','ali');
 // document.write(b);
+
+
+// var a=[15,78,98,78,98];
+// for(var i=0;i<a.length;i++){
+
+// document.write(a[i]);
+
+// }
+
+
+// function abc(){
+
+//     document.write("fahad");
+
+// }
+
+// setInterval(() => {
+//    abc() 
+// }, 1000);
+
+// var inteval;
+// var count=0;
+// function abc(){
+
+// count++;
+// document.write(count);
+
+
+// }
+
+// inteval=setInterval(() => {
+//    abc() 
+// }, 1000);
+
+// setTimeout(() => {
+//    clearInterval(inteval) 
+// }, 10000);
+
+
+var a=prompt("enter the user");
+var chk="";
+for(var i=a.length-1;i>=0;i--){
+chk+=a[i];
+
+
+}
+
+if(chk===a){
+
+    document.write("it is");
+    
+    
+    }
