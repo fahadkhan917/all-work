@@ -67,12 +67,22 @@
 // }
 
 //hight order function
-let arr=[{name:"fahad",age:12},{name:"ali",age:54}]
+// let arr=[{name:"fahad",age:12},{name:"ali",age:54}]
 
-let filter=arr.filter(function(a){
+// let filter=arr.filter(function(a){
 
-return a.age===12;
+// return a.age===12;
 
-})
+// })
 
-console.log(filter);
+// console.log(filter);
+
+// let arr=[{name:"fahad",age:12},{name:"ali",age:54}]
+
+// let filter=arr.filter(function(a){
+
+// return a.age===12;
+
+// })
+
+// console.log(filter);
