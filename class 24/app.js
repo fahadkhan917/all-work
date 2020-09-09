@@ -58,3 +58,21 @@
 // setInterval(() => {
 //     document.write("fahad");
 // }, 1000);
+
+
+// let getdata=()=>{
+
+
+
+// }
+
+//hight order function
+let arr=[{name:"fahad",age:12},{name:"ali",age:54}]
+
+let filter=arr.filter(function(a){
+
+return a.age===12;
+
+})
+
+console.log(filter);
