@@ -86,3 +86,20 @@
 // })
 
 // console.log(filter);
+
+
+//search
+
+// let name="fahad";
+// let sec="a";
+// if(name.startsWith(sec)){
+
+// document.write(name);
+
+// }
+
+//array map
+
+// let arr=[2,3,4,5];
+// let mul=arr.map(a=>a*2);
+// document.write(mul);
