@@ -103,3 +103,15 @@
 // let arr=[2,3,4,5];
 // let mul=arr.map(a=>a*2);
 // document.write(mul);
+
+//class
+// class abc{
+
+
+// }
+
+// fetch('https://jsonplaceholder.typicode.com/todos/1')
+//   .then(response => response.json())
+//   .then(data => console.log(data))
+//   .catch(err=>console.log(err));
+
