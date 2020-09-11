@@ -138,3 +138,17 @@
 // let stu=new Student("fahad","khan");
 // console.log(stu);
 
+
+// class Student{
+//  constructor(name,email){
+//   this.name=name;
+//   this.email=email;
+
+
+//  }
+
+
+// }
+
+// var st=new Student("fahad","ali");
+// console.log(st);
