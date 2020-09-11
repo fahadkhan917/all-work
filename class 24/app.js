@@ -139,24 +139,4 @@
 // console.log(stu);
 
 
-// class Student{
-//  constructor(name,email){
-//   this.name=name;
-//   this.email=email;
-
-
-//  }
-
-
-// }
-// class School extends Student{
-// constructor(name,email,school){
-// super(name,email);
-// this.school=school;
-
-// }
-     
-// }
-
-// var st=new School("fahad","ali","abcschool");
-// console.log(st);
+//  
