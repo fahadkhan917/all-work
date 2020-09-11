@@ -115,3 +115,26 @@
 //   .then(data => console.log(data))
 //   .catch(err=>console.log(err));
 
+
+
+// async function get_data(){
+
+// let data=await fetch('https://jsonplaceholder.typicode.com/todos/1');
+// console.log(data);
+
+// }
+
+// get_data();
+
+//classes
+
+
+// function Student(name,name1){
+// this.name=name;
+// this.name1=name1;
+
+// }
+
+// let stu=new Student("fahad","khan");
+// console.log(stu);
+
