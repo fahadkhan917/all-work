@@ -149,6 +149,14 @@
 
 
 // }
+// class School extends Student{
+// constructor(name,email,school){
+// super(name,email);
+// this.school=school;
 
-// var st=new Student("fahad","ali");
+// }
+     
+// }
+
+// var st=new School("fahad","ali","abcschool");
 // console.log(st);
