@@ -153,7 +153,7 @@
 
 function getdata(){
 
-  let promise=new promise(function(reslove,reject){
+  let promise=new Promise(function(reslove,reject){
 
     fetch('https://jsonplaceholder.typicode.com/todos/2')
     .then(response => response.json())
@@ -170,11 +170,21 @@ function getdata(){
   
   })
 
-promise.then(function)
+promise.then(function(result){
+
+console.log("result",result);
+  
+})
+
+.catch(function(error){
+
+console.log("error",error);
+
+})
 
 }
  
-
+getdata();
 
 
 function example(data){
