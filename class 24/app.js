@@ -151,44 +151,66 @@
 //   })
 
 
-function getdata(){
+// function getdata(){
 
-  let promise=new Promise(function(reslove,reject){
+//   let promise=new Promise(function(reslove,reject){
 
-    fetch('https://jsonplaceholder.typicode.com/todos/2')
-    .then(response => response.json())
-    .then(function(result){
-  reslove(result)
+//     fetch('https://jsonplaceholder.typicode.com/todos/2')
+//     .then(response => response.json())
+//     .then(function(result){
+//   reslove(result)
   
-    })
-    .catch(function(error){
-  reject(error)
-  
-  
-    })
+//     })
+//     .catch(function(error){
+//   reject(error)
   
   
-  })
-
-promise.then(function(result){
-
-console.log("result",result);
+//     })
   
-})
+  
+//   })
 
-.catch(function(error){
+// promise.then(function(result){
 
-console.log("error",error);
+// console.log("result",result);
+  
+// })
 
-})
+// .catch(function(error){
 
-}
+// console.log("error",error);
+
+// })
+
+// }
  
-getdata();
+// getdata();
 
 
-function example(data){
+// function example(data){
 
-console.log("data",data);
+// console.log("data",data);
+
+// }
+
+
+// function addtocart(){
+
+// var pro={
+
+
+
+// }
+
+// var arr=[];
+
+//  arr.push(pro);
+
+//  localStorage.setItem("cart",arr);
+
+
+
 
 }
+
+
