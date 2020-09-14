@@ -138,5 +138,47 @@
 // let stu=new Student("fahad","khan");
 // console.log(stu);
 
+// fetch('https://jsonplaceholder.typicode.com/todos/')
+//   .then(response => response.json())
+//   .then(function(result){
+//    console.log(result)
 
-//  
+//   })
+//   .catch(function(error){
+// console.log(error)
+
+
+//   })
+
+
+function getdata(){
+
+  let promise=new promise(function(reslove,reject){
+
+    fetch('https://jsonplaceholder.typicode.com/todos/2')
+    .then(response => response.json())
+    .then(function(result){
+  reslove(result)
+  
+    })
+    .catch(function(error){
+  reject(error)
+  
+  
+    })
+  
+  
+  })
+
+promise.then(function)
+
+}
+ 
+
+
+
+function example(data){
+
+console.log("data",data);
+
+}
