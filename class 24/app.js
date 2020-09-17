@@ -211,6 +211,33 @@
 
 
 
+
+
+// }
+
+
+let sighup=()=>{
+
+var email=document.getElementById('email');
+var password=document.getElementById('pass');
+firebase.auth().createUserWithEmailAndPassword(email.value, password.value)
+.then((result)=>{
+
+console.log(result);
+
+})
+
+
+
+
+.catch(function(error) {
+  // Handle Errors here.
+  var errorCode = error.code;
+  var errorMessage = error.message;
+  console.log(error);
+});
+
+
 }
 
 
