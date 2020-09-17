@@ -241,3 +241,31 @@ console.log(result);
 }
 
 
+let login=()=>{
+
+
+  var email=document.getElementById('lo-email');
+  var password=document.getElementById('lo-pass');
+  firebase.auth().signInWithEmailAndPassword(email.value, password.value)
+  .then((result)=>{
+    console.log("login suffeslly")
+    console.log(result);
+    
+    
+    })
+  
+  
+  
+  
+  
+  .catch(function(error) {
+    // Handle Errors here.
+    var errorCode = error.code;
+    var errorMessage = error.message;
+    console.log(errorMessage)
+  })
+
+
+}
+
+
