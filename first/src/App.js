@@ -51,13 +51,58 @@ import './App.css';
 // }
 
 
-class App extends React.Component{
+class Header extends React.Component{
 render(){
 return(
 
 <div>
-<h1>hellow</h1>
+<h2>header</h2>
 
+</div>
+
+)
+
+
+}
+
+
+}
+
+class Footer extends React.Component{
+  render(){
+  return(
+  
+  <div>
+  <h2>Footer</h2>
+  
+  </div>
+  
+  )
+  
+  
+  }
+  
+  
+  }
+
+
+
+class App extends React.Component{
+render(){
+  // let todos=[{text:"fahad"},{text:"ali"}];
+return(
+
+<div>
+  <Header/>
+<h1>main </h1>
+<Footer/>
+{/* <ul>
+  {/* {todos.map((item,index)=>{
+return<li key={index}>{item.text}</li> */
+}
+
+  {/* })} */}
+{/* </ul>  */}
 </div>
 
 )
