@@ -56,7 +56,7 @@ render(){
 return(
 
 <div>
-<h2>header</h2>
+<h2 className="h">header</h2>
 
 </div>
 
