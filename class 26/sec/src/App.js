@@ -14,9 +14,18 @@ a:["ahad","ali","umer","asad"]
 }
 }
 
-set_name(){
+set_name=()=>{
+this.setState({
+name:"ali"
 
-console.log(this.state.name)
+})
+
+
+}
+
+get_name=()=>{
+
+  console.log(this.state.name);
 
 }
 
@@ -29,8 +38,9 @@ return(
 <h3>{this.state.name}</h3>
 <h4>my email is{this.state.email}</h4>
 <h5>my array is{this.state.a}</h5>
-<input type="text" placeholder="enter the value"/>
-<button onClick={()=>this.set_name()}>Setname</button>
+<input onChange={(e)=>this.set_name} type="text" placeholder="enter the value"/>
+<button onClick={this.set_name}>Setname</button>
+<button onLoad={this.get_name}>get name</button>
 <Doe/>
 </div>
 
