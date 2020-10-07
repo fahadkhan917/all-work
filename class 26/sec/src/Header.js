@@ -29,10 +29,12 @@ render(){
     var a=5;
     var b=5;
     var c=a+b;
+    var z=prompt("enter the user");
 return(
 
    <div>
    <h1>{c}</h1>
+<h2>{z}</h2>
    <h1>Does</h1>
 
    </div> 
