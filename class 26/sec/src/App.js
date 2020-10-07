@@ -38,7 +38,7 @@ return(
 <h3>{this.state.name}</h3>
 <h4>my email is{this.state.email}</h4>
 <h5>my array is{this.state.a}</h5>
-<input onChange={(e)=>this.set_name} type="text" placeholder="enter the value"/>
+<input onChange={(e)=>this.setState({name:e.target.value })} type="text" placeholder="enter the value"/>
 <button onClick={this.set_name}>Setname</button>
 <button onLoad={this.get_name}>get name</button>
 <Doe/>
