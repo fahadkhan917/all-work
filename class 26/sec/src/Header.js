@@ -23,11 +23,16 @@ return(
 
 
 class Doe extends React.Component{
+
+    
 render(){
+    var a=5;
+    var b=5;
+    var c=a+b;
 return(
 
    <div>
-
+   <h1>{c}</h1>
    <h1>Does</h1>
 
    </div> 
