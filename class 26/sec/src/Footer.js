@@ -35,6 +35,7 @@ return(
 <h3>{this.state.name}</h3>
 <h2>Footer</h2>
 
+
 <button onClick={this.set_name}>change</button>
 <br></br>
 <button onClick={this.get_name}>Getname</button>

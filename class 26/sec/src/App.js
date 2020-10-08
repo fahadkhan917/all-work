@@ -45,7 +45,7 @@ render(){
 return(
 
 <div>
-  <Header/>
+  <Header page="App page"/>
 <h1>hellow</h1>
 <h3>{this.state.name}</h3>
 <h4>my email is{this.state.email}</h4>
