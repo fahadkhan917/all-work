@@ -1,5 +1,6 @@
 import React from 'react';
 import {Header,Doe} from './Header';
+import {Footer,Footerdown} from './Footer'
 import './App.css';
 
 class App extends React.Component{
@@ -55,6 +56,8 @@ return(
 <button onClick={this.set_name}>Setname</button>
 <button onLoad={this.get_name}>get name</button>
 <Doe/>
+<Footer/>
+<Footerdown/>
 </div>
 
 )
