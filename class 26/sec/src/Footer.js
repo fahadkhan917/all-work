@@ -22,6 +22,12 @@ name:"huma"
 
 }
 
+get_name=()=>{
+
+console.log(this.state.name)
+
+}
+
 
 render(){
 return(
@@ -30,6 +36,8 @@ return(
 <h2>Footer</h2>
 
 <button onClick={this.set_name}>change</button>
+<br></br>
+<button onClick={this.get_name}>Getname</button>
 </div>
 
 )
