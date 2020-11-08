@@ -39,3 +39,9 @@
 // document.write(obj[key])
 
 // }
+
+//template literals
+
+let fi="fahad";
+let laname="khan";
+document.write(`my name is ${fi} ${laname}`)
