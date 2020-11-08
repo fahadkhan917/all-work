@@ -42,6 +42,36 @@
 
 //template literals
 
-let fi="fahad";
-let laname="khan";
-document.write(`my name is ${fi} ${laname}`)
+// let fi="fahad";
+// let laname="khan";
+// document.write(`my name is ${fi} ${laname}`)
+
+
+
+//spread operators
+
+// var student=["fahad","khan"];
+// var student2=[...student,"asad","umer"];
+// document.write(student2)
+
+
+// var obj={
+
+// name:"fahad",
+// roll:123
+
+// }
+
+// var obj1={
+// ...obj,
+// school:"ali",
+
+
+// }
+
+// // console.log(obj1)
+// for(var key in obj1){
+
+// document.write(obj1[key])
+
+// }
