@@ -229,4 +229,34 @@
 
 // document.write("no")
 
+// }) 
+
+
+// var promise=new Promise(function(resolve,reject){
+
+// if(true){
+// setTimeout(() => {
+//     resolve("yes")
+// }, 3000);
+
+
+// }
+// else{
+// reject("sorry")
+
+// }
+
+// })
+
+
+// promise.then(function(data){
+
+// console.log("yahoo")
+
+// })
+
+// .catch(function(error){
+
+// console.log("error")
+
 // })
