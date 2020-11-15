@@ -260,3 +260,21 @@
 // console.log("error")
 
 // })
+
+
+
+// var obj1={
+// name:"fahad",
+// id:123
+
+
+// }
+
+// var {name,id}=obj1
+
+// console.log(name)
+
+// var arr=["fahad","umer","asad"];
+// var [name1,name2,name3]=arr;
+// document.write(name1)
+
