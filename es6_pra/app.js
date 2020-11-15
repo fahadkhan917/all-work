@@ -278,3 +278,24 @@
 // var [name1,name2,name3]=arr;
 // document.write(name1)
 
+
+//function expression
+
+// let foo=function(){
+
+// console.log("hellow world")
+
+// }
+
+// foo()
+
+//arrow function
+
+// =>
+
+// let hellow=()=>{
+
+// console.log("fahad")
+
+// }
+// hellow();
