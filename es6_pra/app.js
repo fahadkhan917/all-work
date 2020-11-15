@@ -299,3 +299,16 @@
 
 // }
 // hellow();
+
+// let foo=(name)=>{
+
+// document.write(name);
+
+// }
+// foo("fahad");
+
+// let foo=()=>{
+// return "ali";
+
+// }
+// document.write(foo())
