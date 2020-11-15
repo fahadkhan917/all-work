@@ -171,32 +171,62 @@
 
 
 
-var promise=new Promise(function(resolve,reject){
+// var promise=new Promise(function(resolve,reject){
 
-    var zinger="hai";
-    if(zinger==="hai"){
+//     var zinger="hai";
+//     if(zinger==="hai"){
 
-resolve("han done")
+// resolve("han done")
 
-    }
+//     }
 
-    else{
+//     else{
 
-reject("sorry")
+// reject("sorry")
 
-    }
+//     }
 
 
-})
+// })
 
-promise.then(function(data){
+// promise.then(function(data){
 
-document.write(data)
+// document.write(data)
 
-})
+// })
 
-.catch(function(){
+// .catch(function(){
 
-document.write("sorry")
+// document.write("sorry")
 
-})
+// })
+
+
+// var promise=new Promise(function(resolve,reject){
+
+// var a="han";
+// if(a="han"){
+// resolve("han hai")
+
+
+// }
+
+// else{
+
+// reject("nhi hai")
+
+// }
+// })
+
+
+// promise.then(function(data){
+
+// document.write("yes")
+
+// })
+
+// .catch(function(error){
+
+// document.write("no")
+
+// })
