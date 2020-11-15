@@ -312,3 +312,19 @@
 
 // }
 // document.write(foo())
+
+
+// function foo(name){
+
+// console.log(this)
+
+// }
+// foo("fahad")
+
+// var a=(name1)=>{
+
+// console.log(this)
+
+// }
+
+// a("ali")
