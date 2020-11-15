@@ -328,3 +328,7 @@
 // }
 
 // a("ali")
+
+setInterval(() => {
+    console.log("fahad")
+}, 2000);
