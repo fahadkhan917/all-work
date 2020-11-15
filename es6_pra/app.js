@@ -140,31 +140,63 @@
 
 //promise
 
+// var promise=new Promise(function(resolve,reject){
+
+// var zinger="avalible";
+// if(zinger==="avalible"){
+
+// resolve("han done")
+
+// }
+// else{
+
+// reject("nhi")
+
+// }
+
+
+
+// })
+
+// promise.then(function(data){
+
+// console.log("reslove",data)
+
+// })
+
+// .catch(function(error){
+// console.log("sorry")
+
+// })
+
+
+
 var promise=new Promise(function(resolve,reject){
 
-var zinger="avalible";
-if(zinger==="avalible"){
+    var zinger="hai";
+    if(zinger==="hai"){
 
 resolve("han done")
 
-}
-else{
+    }
 
-reject("nhi")
+    else{
 
-}
+reject("sorry")
 
+    }
 
 
 })
 
 promise.then(function(data){
 
-console.log("reslove",data)
+document.write(data)
 
 })
 
-.catch(function(error){
-console.log("sorry")
+.catch(function(){
+
+document.write("sorry")
 
 })
