@@ -388,15 +388,54 @@
 // get_data(setdata)
 
 
-function abc(xyz){
-xyz("fahad_ali")
+// function abc(xyz){
+// xyz("fahad_ali")
 
 
-}
+// }
 
-function xyz(name){
-console.log(name)
+// function xyz(name){
+// console.log(name)
 
 
-}
-abc(xyz)
+// }
+// abc(xyz)
+
+// function abc(xyz){
+// xyz("asad")
+
+
+// }
+
+// function xyz(name){
+// console.log(name)
+
+
+// }
+// abc(xyz)
+
+// let a=(b)=>{
+// b("umer")
+
+
+// }
+
+
+// let b=(name)=>{
+//     document.write(name)
+
+
+// }
+// a(b);
+
+
+
+// let arr=[{name:"fahad",age:45},{name:"asad",age:77}];
+
+// let fil=arr.filter((a)=>{
+
+// console.log(a);
+
+// })
+
+
