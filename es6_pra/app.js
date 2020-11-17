@@ -348,3 +348,25 @@
 // document.write(a)
 // }
 // getdata(rendata)
+
+
+
+let get_data=(render_data)=>{
+
+    fetch('https://jsonplaceholder.typicode.com/todos/1')
+    .then(response => response.json())
+    .then(data => {
+render_data(data)
+    })
+
+
+}
+
+
+
+let render_data=(data)=>{
+console.log(data);
+
+
+}
+get_data(render_data)
