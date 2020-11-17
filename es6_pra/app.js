@@ -329,6 +329,22 @@
 
 // a("ali")
 
-setInterval(() => {
-    console.log("fahad")
-}, 2000);
+// setInterval(() => {
+//     console.log("fahad ")
+// }, 2000);
+
+// let getdata=(rendata)=>{
+
+// var a="fahad"
+// rendata()
+// }
+
+
+
+// let rendata=()=>{
+
+// b="ali"
+
+// document.write(a)
+// }
+// getdata(rendata)
