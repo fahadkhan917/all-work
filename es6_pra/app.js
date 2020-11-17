@@ -351,22 +351,52 @@
 
 
 
-let get_data=(render_data)=>{
+// let get_data=(render_data)=>{
 
-    fetch('https://jsonplaceholder.typicode.com/todos/1')
-    .then(response => response.json())
-    .then(data => {
-render_data(data)
-    })
+//     fetch('https://jsonplaceholder.typicode.com/todos/1')
+//     .then(response => response.json())
+//     .then(data => {
+// render_data(data)
+//     })
+
+
+// }
+
+
+
+// let render_data=(data)=>{
+// console.log(data);
+
+
+// }
+// get_data(render_data)
+
+
+// let get_data=(setdata)=>{
+// setTimeout(() => {
+//     setdata("fahad")
+// }, 3000);
+
+// }
+
+// let setdata=(name)=>{
+// console.log(name)
+
+
+// }
+
+// get_data(setdata)
+
+
+function abc(xyz){
+xyz("fahad_ali")
 
 
 }
 
-
-
-let render_data=(data)=>{
-console.log(data);
+function xyz(name){
+console.log(name)
 
 
 }
-get_data(render_data)
+abc(xyz)
