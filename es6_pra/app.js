@@ -504,6 +504,25 @@
 
 // })
 
+
+// function abc(xyz){
+
+// xyz("ali")
+
+
+// }
+
+// function xyz(data){
+// console.log(data)
+
+
+// }
+
+// abc(xyz);
+
+
+
+
 //es6 class
 
 
