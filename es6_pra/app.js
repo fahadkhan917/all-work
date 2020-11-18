@@ -540,3 +540,30 @@
 
 // }
 
+// class
+
+// class Student{
+// constructor(name,email){
+
+// this.name=name;
+// this.email=email;
+
+// }
+
+
+// }
+
+// class Xyz extends Student{
+// constructor(name,email,school){
+// super(name,email)
+
+// this.school=school;
+// }
+
+
+// }
+
+// var studen1=new Xyz("fahad","gmail","salyani");
+// console.log(studen1)
+
+
