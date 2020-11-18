@@ -458,6 +458,10 @@
 
 // }
 
-let arr=[2,4,5];
-arr.map(a=>{document.write(a);});
+// let arr=[2,4,5];
+// arr.map(a=>{document.write(a);});
 
+
+var arr=[2,5,3,7];
+var ab=arr.map((a)=>a*2)
+console.log(ab)
