@@ -467,10 +467,45 @@
 // console.log(ab)
 
 
-async function abc(){
+// async function abc(){
 
-let data=await fetch('https://jsonplaceholder.typicode.com/todos/1')
-console.log(data)
-}
+// let data=await fetch('https://jsonplaceholder.typicode.com/todos/1')
+// console.log(data)
+// }
 
-abc();
+// abc();
+
+
+// var promise=new Promise(function(resolve,reject){
+
+//     var a="yes";
+//     if(a==="yes"){
+//     resolve("okay")
+
+
+//     }
+// else{
+
+//     reject("sorry")
+
+// }
+
+
+
+// })
+// promise.then(function(data){
+
+// console.log("hai bhai")
+
+// })
+
+// .catch(function(error){
+// console.log("no")
+
+// })
+
+//es6 class
+
+
+
+
