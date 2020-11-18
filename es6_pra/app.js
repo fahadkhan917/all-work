@@ -433,9 +433,27 @@
 // let arr=[{name:"fahad",age:45},{name:"asad",age:77}];
 
 // let fil=arr.filter((a)=>{
+// return a.age==77;
 
-// console.log(a);
 
 // })
+// console.log(fil)
 
 
+// let arr=[{name:"fahad",age:45},{name:"asad",age:77}];
+
+// var fil=arr.filter((a)=>{
+// return true;
+
+// })
+// console.log(fil)
+
+
+// let name="fahad";
+// let se="a";
+
+// if(name.startsWith(se)){
+
+// console.log(name);
+
+// }
