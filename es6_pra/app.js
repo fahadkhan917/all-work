@@ -457,3 +457,7 @@
 // console.log(name);
 
 // }
+
+let arr=[2,4,5];
+arr.map(a=>{document.write(a);});
+
