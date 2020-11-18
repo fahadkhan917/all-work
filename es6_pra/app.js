@@ -525,6 +525,18 @@
 
 //es6 class
 
+// function Student(name,email){
+// this.name=name;
+// this.email=email;
 
 
+
+// }
+
+// var student1=new Student("fahad","fk16181@gmail.com");
+// for(var key in student1){
+
+// document.write(student1[key])
+
+// }
 
