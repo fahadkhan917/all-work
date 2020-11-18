@@ -462,6 +462,15 @@
 // arr.map(a=>{document.write(a);});
 
 
-var arr=[2,5,3,7];
-var ab=arr.map((a)=>a*2)
-console.log(ab)
+// var arr=[2,5,3,7];
+// var ab=arr.map((a)=>a*2)
+// console.log(ab)
+
+
+async function abc(){
+
+let data=await fetch('https://jsonplaceholder.typicode.com/todos/1')
+console.log(data)
+}
+
+abc();
