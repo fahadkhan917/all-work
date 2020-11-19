@@ -567,3 +567,37 @@
 // console.log(studen1)
 
 
+
+
+
+
+
+
+
+
+// class Student{
+// constructor(name,email){
+
+// this.name=name;
+// this.email=email;
+
+// }
+
+
+
+
+// }
+
+// class Student1 extends Student{
+// constructor(name,email,school){
+// super(name,email)
+// this.school=school;
+
+// }
+
+
+// }
+
+
+// var student2=new Student1("fahad","ali","slyani");
+// console.log(student2);
