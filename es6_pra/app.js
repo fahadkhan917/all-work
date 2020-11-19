@@ -601,3 +601,8 @@
 
 // var student2=new Student1("fahad","ali","slyani");
 // console.log(student2);
+
+
+
+
+
