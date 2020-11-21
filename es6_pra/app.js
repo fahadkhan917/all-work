@@ -606,3 +606,57 @@
 
 
 
+// var pro=new Promise(function(resolve,reject){
+//    var name="fahad"
+//     if(name==="fahad"){
+//    resolve("yes")
+
+
+//     }
+// else{
+
+// reject("sorry")
+
+// }
+
+// })
+
+// pro.then(function(data){
+
+// document.write(data)
+
+
+// })
+
+// .catch(function(erorr){
+
+
+// document.write(error);
+
+// })
+
+class Student{
+constructor(name,email){
+this.name=name;
+this.email=email;
+
+
+}
+
+
+}
+
+class Student1 extends Student{
+constructor(name,email,school){
+super(name,email)
+this.school=school;
+
+}
+
+
+
+}
+
+
+var stu=new Student1("fahad","ali","hamadrad");
+console.log(stu);
