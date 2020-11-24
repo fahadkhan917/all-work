@@ -635,28 +635,33 @@
 
 // })
 
-class Student{
-constructor(name,email){
-this.name=name;
-this.email=email;
+// class Student{
+// constructor(name,email){
+// this.name=name;
+// this.email=email;
 
 
-}
+// }
 
 
-}
+// }
 
-class Student1 extends Student{
-constructor(name,email,school){
-super(name,email)
-this.school=school;
+// class Student1 extends Student{
+// constructor(name,email,school){
+// super(name,email)
+// this.school=school;
 
-}
-
-
-
-}
+// }
 
 
-var stu=new Student1("fahad","ali","hamadrad");
-console.log(stu);
+
+// }
+
+
+// var stu=new Student1("fahad","ali","hamadrad");
+// console.log(stu);
+
+
+var first="fahad";
+var last="khan";
+document.write(`my name is ${first} ${last}`)
