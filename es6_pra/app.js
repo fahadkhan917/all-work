@@ -674,11 +674,23 @@
 
 let abc=()=>{
 
-var txt1=document.getElementById('txt1');
-var txt2=document.getElementById('txt2');
+var email=document.getElementById('txt1');
+var password=document.getElementById('txt2');
 
 
 // console.log(txt1.value)
 // console.log(txt2.value)
+
+firebase.auth().createUserWithEmailAndPassword(email.value, password.value)
+  .then((user) => {
+console.log(user)
+  })
+  .catch((error) => {
+    var errorCode = error.code;
+    var errorMessage = error.message;
+    
+console.log(errorMessage)
+
+  });
 
 }
