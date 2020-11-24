@@ -662,6 +662,21 @@
 // console.log(stu);
 
 
-var first="fahad";
-var last="khan";
-document.write(`my name is ${first} ${last}`)
+// var first="fahad";
+// var last="khan";
+// document.write(`my name is ${first} ${last}`)
+
+
+
+
+
+//firebaseauth
+function abc(){
+
+var txt1=document.getElementById('txt1');
+var txt2=document.getElementById('txt2');
+
+
+
+
+}
