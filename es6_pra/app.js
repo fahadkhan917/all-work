@@ -671,12 +671,14 @@
 
 
 //firebaseauth
-function abc(){
+
+let abc=()=>{
 
 var txt1=document.getElementById('txt1');
 var txt2=document.getElementById('txt2');
 
 
-
+// console.log(txt1.value)
+// console.log(txt2.value)
 
 }
