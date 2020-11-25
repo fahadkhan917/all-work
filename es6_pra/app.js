@@ -753,7 +753,16 @@ var password=document.getElementById('txt2-login');
 // console.log(password.value);
 
 
-
+firebase.auth().signInWithEmailAndPassword(email.value, password.value)
+  .then((user) => {
+   console.log("hogaya");
+   window.location.assign("https://www.w3schools.com")
+  })
+  .catch((error) => {
+    var errorCode = error.code;
+    var errorMessage = error.message;
+    console.log(errorMessage)
+  });
 
 
 }
