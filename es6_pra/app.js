@@ -743,3 +743,18 @@ firebase.auth().createUserWithEmailAndPassword(email.value, password.value)
 
 }
 
+
+var login=()=>{
+
+var email=document.getElementById('txt1-login');
+var password=document.getElementById('txt2-login');
+
+// console.log(email.value);
+// console.log(password.value);
+
+
+
+
+
+}
+
