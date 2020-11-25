@@ -672,39 +672,66 @@
 
 //firebaseauth
 
-let abc=()=>{
+// let abc=()=>{
+
+// var email=document.getElementById('txt1');
+// var password=document.getElementById('txt2');
+
+
+// // console.log(txt1.value)
+// // console.log(txt2.value)
+
+// firebase.auth().createUserWithEmailAndPassword(email.value, password.value)
+//   .then((user) => {
+// console.log(user)
+//   })
+//   .catch((error) => {
+//     var errorCode = error.code;
+//     var errorMessage = error.message;
+    
+// console.log(errorMessage)
+
+//   });
+
+// }
+
+
+// let login=()=>{
+
+// var email=document.getElementById('txt1-login');
+// var password=document.getElementById('txt2-login');
+
+// firebase.auth().signInWithEmailAndPassword(email.value, password.value)
+//   .then((user) => {
+//    console.log("user login hogaya")
+//    console.log(user)
+//   })
+//   .catch((error) => {
+//     var errorCode = error.code;
+//     var errorMessage = error.message;
+//     console.log(errorMessage);
+//   });
+
+
+
+// }
+
+
+
+// firebaseauth
+
+let sighup=()=>{
 
 var email=document.getElementById('txt1');
 var password=document.getElementById('txt2');
 
-
-// console.log(txt1.value)
-// console.log(txt2.value)
+// console.log(name.value)
+// console.log(password.value);
 
 firebase.auth().createUserWithEmailAndPassword(email.value, password.value)
   .then((user) => {
-console.log(user)
-  })
-  .catch((error) => {
-    var errorCode = error.code;
-    var errorMessage = error.message;
+    console.log(user)
     
-console.log(errorMessage)
-
-  });
-
-}
-
-
-let login=()=>{
-
-var email=document.getElementById('txt1-login');
-var password=document.getElementById('txt2-login');
-
-firebase.auth().signInWithEmailAndPassword(email.value, password.value)
-  .then((user) => {
-   console.log("user login hogaya")
-   console.log(user)
   })
   .catch((error) => {
     var errorCode = error.code;
@@ -715,3 +742,4 @@ firebase.auth().signInWithEmailAndPassword(email.value, password.value)
 
 
 }
+
