@@ -720,50 +720,50 @@
 
 // firebaseauth
 
-let sighup=()=>{
+// let sighup=()=>{
 
-var email=document.getElementById('txt1');
-var password=document.getElementById('txt2');
+// var email=document.getElementById('txt1');
+// var password=document.getElementById('txt2');
 
-// console.log(name.value)
-// console.log(password.value);
+// // console.log(name.value)
+// // console.log(password.value);
 
-firebase.auth().createUserWithEmailAndPassword(email.value, password.value)
-  .then((user) => {
-    console.log(user)
+// firebase.auth().createUserWithEmailAndPassword(email.value, password.value)
+//   .then((user) => {
+//     console.log(user)
     
-  })
-  .catch((error) => {
-    var errorCode = error.code;
-    var errorMessage = error.message;
-    console.log(errorMessage);
-  });
+//   })
+//   .catch((error) => {
+//     var errorCode = error.code;
+//     var errorMessage = error.message;
+//     console.log(errorMessage);
+//   });
 
 
 
-}
+// }
 
 
-var login=()=>{
+// var login=()=>{
 
-var email=document.getElementById('txt1-login');
-var password=document.getElementById('txt2-login');
+// var email=document.getElementById('txt1-login');
+// var password=document.getElementById('txt2-login');
 
-// console.log(email.value);
-// console.log(password.value);
-
-
-firebase.auth().signInWithEmailAndPassword(email.value, password.value)
-  .then((user) => {
-   console.log("hogaya");
-   window.location.assign("https://www.w3schools.com")
-  })
-  .catch((error) => {
-    var errorCode = error.code;
-    var errorMessage = error.message;
-    console.log(errorMessage)
-  });
+// // console.log(email.value);
+// // console.log(password.value);
 
 
-}
+// firebase.auth().signInWithEmailAndPassword(email.value, password.value)
+//   .then((user) => {
+//    console.log("hogaya");
+//    window.location.assign("https://www.w3schools.com")
+//   })
+//   .catch((error) => {
+//     var errorCode = error.code;
+//     var errorMessage = error.message;
+//     console.log(errorMessage)
+//   });
+
+
+// }
 
